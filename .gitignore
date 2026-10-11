@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+experiments/**/vendor/
+experiments/**/results/
+experiments/**/run_fullroom/
+*.zip
+*.log

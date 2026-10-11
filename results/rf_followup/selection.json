@@ -1,0 +1,30 @@
+{
+  "winner": "hybrid",
+  "joint": null,
+  "heads": {
+    "1": {
+      "name": "et_leaf1_mf07",
+      "family": "et",
+      "leaf": 1,
+      "fraction": 0.7,
+      "features": "original",
+      "log": false
+    },
+    "4": {
+      "name": "hgb_engineered_absolute",
+      "family": "hgb",
+      "features": "engineered",
+      "loss": "absolute_error",
+      "log": false
+    },
+    "2": {
+      "name": "et_leaf2",
+      "family": "et",
+      "leaf": 2,
+      "fraction": 1.0,
+      "features": "original",
+      "log": false
+    }
+  },
+  "test_evaluated_yet": false
+}

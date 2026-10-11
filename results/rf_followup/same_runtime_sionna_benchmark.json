@@ -1,0 +1,18 @@
+{
+  "queries": 30,
+  "sionna_median_ms": 52.19685500003379,
+  "original_median_ms": 19.14887150002187,
+  "followup_median_ms": 60.964647999981025,
+  "original_sionna_speedup": 2.7258449668939595,
+  "followup_sionna_speedup": 0.8561823402974464,
+  "original_over_followup_speed_ratio": 0.31409795886999675,
+  "model_load_seconds": 4.81783318500004,
+  "scene_load_seconds": {
+    "nochairroom": 0.7246396159999904,
+    "nosofaroom": 0.044105435000005855
+  },
+  "reference_reproduction_passed": true,
+  "scope": "Same runtime: synchronized Sionna solve+16 descriptors vs CPU features+16 predictions; warm, no loading/compilation/disk/training",
+  "python": "3.13.15",
+  "gpu": "Tesla T4"
+}

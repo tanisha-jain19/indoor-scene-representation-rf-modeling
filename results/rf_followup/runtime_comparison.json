@@ -1,0 +1,11 @@
+{
+  "queries": 30,
+  "repeats": 5,
+  "original_median_ms": 15.872483999999076,
+  "followup_median_ms": 51.332611000020734,
+  "old_over_new_speed_ratio": 0.3092085847726052,
+  "scope": "Warm CPU geometry feature extraction plus full16 inference, same runtime; excludes loading, training, disk and simulation",
+  "new_sionna_speedup_measured": false,
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "processor": "x86_64"
+}

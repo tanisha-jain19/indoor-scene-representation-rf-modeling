@@ -1,0 +1,3506 @@
+[
+  {
+    "source": "clipdinoemb (1).py",
+    "published": "notebooks/originals/clipdinoemb_(1)_export.ipynb",
+    "source_sha256": "1811b2213c4e4482d61f1ff27889b9bf4e4ac4e544329c9e2764633784f9c17d",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source": "clipdinoemb (2).py",
+    "published": "notebooks/originals/clipdinoemb_(2)_export.ipynb",
+    "source_sha256": "6fd14e95dd17752bac78bfe1108dc1980915316305ba2db6da5677011a9cb812",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source": "clipdinoemb.py",
+    "published": "notebooks/originals/clipdinoemb_export.ipynb",
+    "source_sha256": "fdb0e56ebb84d4fe8ee567ad6787e5be3f973fe12e1c7d7da3239a3cc08da6d5",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source": "fourier.py",
+    "published": "notebooks/originals/fourier_export.ipynb",
+    "source_sha256": "947530f0e9ae85c18741840014b63230582fb50d371134f1b0795c19d1bc9c25",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source": "fourierencoding.py",
+    "published": "notebooks/originals/fourierencoding_export.ipynb",
+    "source_sha256": "d735d057baca3bfc974b611378f179a5fd7125f3de18bb4c57de70a055076438",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source": "projectpart1 (1).py",
+    "published": "notebooks/originals/projectpart1_(1)_export.ipynb",
+    "source_sha256": "5776bbc06c5ea4a75b37b5775e89a4caa839caa5313c90d2d225cfa1f4faa74e",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source": "ProjectPart1.ipynb",
+    "published": "notebooks/originals/ProjectPart1.ipynb",
+    "source_sha256": "257ec30b80c0dd5d24c1685805998413226d962cb99d428d49c485314a5c68fe",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source": "projectpart1.py",
+    "published": "notebooks/originals/projectpart1_export.ipynb",
+    "source_sha256": "f1e5240b82cdf48acca8f9cff0ded4c768d3adeca99b14b5573d4167049a3b3a",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source": "RF_3DGS.ipynb",
+    "published": "notebooks/originals/RF_3DGS.ipynb",
+    "source_sha256": "1b53765dad3177c0ed066acb30277747de7e3c6ae2242ff456b6d63054c456ec",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/benchmark.py",
+    "published": "experiments/rf_surrogate/benchmark.py",
+    "sha256": "abc53ab1a33cf89932c319ba84ad8d26fec28d5e0c1b014864b34e22eb34a5e4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/experiment.py",
+    "published": "experiments/rf_surrogate/experiment.py",
+    "sha256": "12d1beea922e3ef5b9591b7aa1f7a8bda951f8325f307d17e9ebe1b63e8b7851"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/fast_model.py",
+    "published": "experiments/rf_surrogate/fast_model.py",
+    "sha256": "9a08b6e00d03574c3215af99b90ec6c5cc3f510e32b32844265a098e8ec6dac9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/geometry_io.py",
+    "published": "experiments/rf_surrogate/geometry_io.py",
+    "sha256": "586285e9763df1765cdc1457c60cf8c883308c2751fab06a30ad2a0a5ca16390"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/predict_rf.py",
+    "published": "experiments/rf_surrogate/predict_rf.py",
+    "sha256": "d626e12f31f812bb2387a196087b7894bbcd052a5759af941a42385c4d64ee09"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/test_experiment.py",
+    "published": "experiments/rf_surrogate/test_experiment.py",
+    "sha256": "431adde753a89f9efcbc4009269267c49941e892aacfaacca72874280db7ce2a"
+  },
+  {
+    "source": "RF_Surrogate_Room_Generalization.ipynb",
+    "published": "notebooks/originals/RF_Surrogate_Room_Generalization.ipynb",
+    "source_sha256": "a47c5703afa4f41b52d65ae3c2d467c1228677df4f035aae576014e0f06930e9",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/fullroom.xml",
+    "published": "experiments/rf_surrogate/scenes/fullroom/fullroom.xml",
+    "sha256": "25531b8c319a6fd1acc37954153e7985a8b66b8dc629a779e476dfbf65994185"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/fullroom_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/fullroom/fullroom_materials.xml",
+    "sha256": "bcf710739551bfdc76705627c3c480319aa37a8b7a27f8d02c7ae873c300a7a5"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/fullroom_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/fullroom/fullroom_radio.xml",
+    "sha256": "5b6336baec6965e5e063536a04137d53b31ae319fd9f48b77fe64f3184561432"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/fullyfurnishedroom.xml",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/fullyfurnishedroom.xml",
+    "sha256": "3cbcfc93b610bb12b69870edf7a611ea7951bd3092c2ce55d7ecca07c237b468"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/fullyfurnishedroom_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/fullyfurnishedroom_materials.xml",
+    "sha256": "83be5bf8a1e95567da29814ffa9545c2e687e0ea3398004e2211b6c9f0173fa1"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/fullyfurnishedroom_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/fullyfurnishedroom_radio.xml",
+    "sha256": "4a26adf174d018aa1c0362e260ff58d5ca9ddb788acd0c7bf14a624794ae19b2"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nobedroom/nobedroom.xml",
+    "published": "experiments/rf_surrogate/scenes/nobedroom/nobedroom.xml",
+    "sha256": "f8b19e1b5539d6e765793048527db5e54ec0780e87af79a7dd1e8a26b951e9f7"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nobedroom/nobedroom_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/nobedroom/nobedroom_materials.xml",
+    "sha256": "a4ebd08eede86182817d6774871c988139eaa9a45ceed9af766a5af2cc252785"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nobedroom/nobedroom_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/nobedroom/nobedroom_radio.xml",
+    "sha256": "ef6a1f898e051e254b06d7424592799d3ab0e66a767c9974c167c6f58049fcac"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/nochairroom.xml",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/nochairroom.xml",
+    "sha256": "4ca26d1cac6c23ad1b0bb1a7849c0432791fe9a85b16a2c313a7aefcc4bc205e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/nochairroom_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/nochairroom_materials.xml",
+    "sha256": "4aaab78dfe59361587994090715fd8bb0edd272217f02a53a6499368e619c134"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/nochairroom_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/nochairroom_radio.xml",
+    "sha256": "8115b9e63124683c634fe2255d7fe9df4f2e199cdecc21e4e85e8b260d1233ed"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/nopartitionroom.xml",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/nopartitionroom.xml",
+    "sha256": "f9102a7ab0836211d49c2967a89dd88e6ca8abc5dd19688aa76b00bc689c08a3"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/nopartitionroom_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/nopartitionroom_materials.xml",
+    "sha256": "4b068e8c3bcce1159ab72c82f468b3a89b840f002bc55f6b3df9a5f16b3f59f7"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/nopartitionroom_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/nopartitionroom_radio.xml",
+    "sha256": "3447141211e4d6925735d9ff964982ff2b620197ddfcd126745a44543eb59d69"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/nosofaroom.xml",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/nosofaroom.xml",
+    "sha256": "eabe37e1dcb460e0404771e8236734d9ab64fb8fa0359eb4cbac785062d43356"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/nosofaroom_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/nosofaroom_materials.xml",
+    "sha256": "2b61b16615e29c5311592434b2638b5a6c8de7083d0c8ab5df336859de15d97b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/nosofaroom_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/nosofaroom_radio.xml",
+    "sha256": "1d3d5d5b1f48dc95e4948d2b54f797af8998963acef5eefa1ca65892615159a5"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/room1.xml",
+    "published": "experiments/rf_surrogate/scenes/room1/room1.xml",
+    "sha256": "6a61ddc122c54d0a03368a208515465eb4ac82c8c41368ad96fe3d8946ced68d"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/room1_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/room1/room1_materials.xml",
+    "sha256": "cda52712f038005aec34672264290b9ba94749f02e7453ea4b78e10ee2f87362"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/room1_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/room1/room1_radio.xml",
+    "sha256": "4a41df9c6fd2bc18db7f74596ae477feefe7a25a65d1da157ded4958c2d0848a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room2/room2.xml",
+    "published": "experiments/rf_surrogate/scenes/room2/room2.xml",
+    "sha256": "adfae538003200f79861dce02a513549f9592119df073cb48bda48c3ee70e09a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room2/room2_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/room2/room2_materials.xml",
+    "sha256": "70759939cf61668e7f1ab00c3a94fc20b7b0a7a2d3ac8fc1cc3dc7c6b291a7bb"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room2/room2_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/room2/room2_radio.xml",
+    "sha256": "65561fca8711413da77fb4f05890d03b5f6841af98ba75fbd3c022bbbcaf4f5e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/room3.xml",
+    "published": "experiments/rf_surrogate/scenes/room3/room3.xml",
+    "sha256": "498a93cf257efca8672d32558c17b45a7f4f2ff872f600475269bf97447b901a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/room3_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/room3/room3_materials.xml",
+    "sha256": "8f71e1f61dfbee5a111e7ba4abc228db5f26ca794f9d8fd4d381f3f39642b2ef"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/room3_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/room3/room3_radio.xml",
+    "sha256": "fa84c4adb862762f7f2361165cbe1748e139da39ea6570f0340fa4c18ea8bad3"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/room4.xml",
+    "published": "experiments/rf_surrogate/scenes/room4/room4.xml",
+    "sha256": "498a93cf257efca8672d32558c17b45a7f4f2ff872f600475269bf97447b901a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/room4_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/room4/room4_materials.xml",
+    "sha256": "8f71e1f61dfbee5a111e7ba4abc228db5f26ca794f9d8fd4d381f3f39642b2ef"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/room4_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/room4/room4_radio.xml",
+    "sha256": "fa84c4adb862762f7f2361165cbe1748e139da39ea6570f0340fa4c18ea8bad3"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/room5.xml",
+    "published": "experiments/rf_surrogate/scenes/room5/room5.xml",
+    "sha256": "aebe386d7be1467b56e26ce28844e04452c5a07572d0d7123716a89fa03d5e16"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/room5_materials.xml",
+    "published": "experiments/rf_surrogate/scenes/room5/room5_materials.xml",
+    "sha256": "392986c290437426c796cc578712795feb8f965a6c74a513d4086fed95472054"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/room5_radio.xml",
+    "published": "experiments/rf_surrogate/scenes/room5/room5_radio.xml",
+    "sha256": "c5ced64ca010bcc800e2da34ffaf852006f78457ccd164b97c11c3b307d9e1df"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/Bed.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/Bed.ply",
+    "sha256": "b43c5518094d04fa2d0d81bfd28383da18e80a5307fdaf87cc43c9985148d9ed"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/BedHead.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/BedHead.ply",
+    "sha256": "a4e0e02ec022ad2d1ae1806ca1c831bcdddfd8d7437dc49e75f3f813251b9536"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/led_tv.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/led_tv.ply",
+    "sha256": "8436601772aeb69546be64a2faac6a7a2421824906ee426ae9888790cf7962d0"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/partition_a.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/partition_a.ply",
+    "sha256": "a319d3584a046082a5c7ba3be6ea86822cded46f415696157a4005f1440a636b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/pillar_zone1.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/pillar_zone1.ply",
+    "sha256": "6cc9d8f31493431d111d88076c45fefa4898b2e9ae48e6cacc0d1ddb75b171b9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/Pillow.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/Pillow.ply",
+    "sha256": "b086f03a517f07884bd0080dd744d99a3ac66a3d05a0d95449930c986ce4fd80"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/Sofa.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/Sofa.ply",
+    "sha256": "ce15ab076c9011ad901b28e427c7ff6f50d64b1e7a6f4ce41393f44228e0e7cd"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/TableChair.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/TableChair.ply",
+    "sha256": "f3ba368230fa06cf8115f56baccb1fb5dd761781b9728401b7dd904353e2be98"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullroom/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/fullroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/meshes/Bed.ply",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/meshes/Bed.ply",
+    "sha256": "e4cac0ccb181d76f574130e1245eff19c29b5c60ed0e598b20e4589b6bff24ec"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/meshes/BedHead.ply",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/meshes/BedHead.ply",
+    "sha256": "a04266d595e49a08e563b3efe8473484ca6506f4ceefd3b716c25fa25fe5b17c"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/meshes/led_tv.ply",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/meshes/led_tv.ply",
+    "sha256": "88052812fda1f2148111bbb8bb24e6bbe20519b0971f9f720a9be3c1adc8483b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/meshes/pillar_zone1.ply",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/meshes/pillar_zone1.ply",
+    "sha256": "ee9f30a7af13be85c698f7314312a2790ad2b97cfbce4778cdc2ba7b53edc470"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/meshes/Pillow.ply",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/meshes/Pillow.ply",
+    "sha256": "b61cbd4dcd5f67a1c14eac8970f6594231975792805b0ccbc274541b30faf529"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/meshes/Sofa.ply",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/meshes/Sofa.ply",
+    "sha256": "e38f6a7879356bd93a9cf3fdf4de46c85276dc0713d37848efdfcf164bd32405"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/meshes/TableChair.ply",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/meshes/TableChair.ply",
+    "sha256": "e99d003a025f3a8548541402dfe5be743415f455673527206461909b541c0337"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/fullyfurnishedroom/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/fullyfurnishedroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nobedroom/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/nobedroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nobedroom/meshes/partition_a.ply",
+    "published": "experiments/rf_surrogate/scenes/nobedroom/meshes/partition_a.ply",
+    "sha256": "4fa70732b2c1b5eff5c282d2f15f903850f63d97ec9200062f90249418f12592"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nobedroom/meshes/pillar_zone1.ply",
+    "published": "experiments/rf_surrogate/scenes/nobedroom/meshes/pillar_zone1.ply",
+    "sha256": "6cc9d8f31493431d111d88076c45fefa4898b2e9ae48e6cacc0d1ddb75b171b9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nobedroom/meshes/Sofa.ply",
+    "published": "experiments/rf_surrogate/scenes/nobedroom/meshes/Sofa.ply",
+    "sha256": "a17c16058c6fd2c4cb0d357aba284e7f3ef1e2f9b55528b0a9e4bdc2d48db323"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nobedroom/meshes/TableChair.ply",
+    "published": "experiments/rf_surrogate/scenes/nobedroom/meshes/TableChair.ply",
+    "sha256": "f3ba368230fa06cf8115f56baccb1fb5dd761781b9728401b7dd904353e2be98"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nobedroom/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/nobedroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/meshes/Bed.ply",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/meshes/Bed.ply",
+    "sha256": "17faa19203b88d372cfcab45032099db89c7f841162f39f95e94969aec10913e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/meshes/BedHead.ply",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/meshes/BedHead.ply",
+    "sha256": "305fb994ef775a3a0ad8b60c69ae79ca1c638ec437ffd982bfeaea41a5e71f4d"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/meshes/led_tv.ply",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/meshes/led_tv.ply",
+    "sha256": "8436601772aeb69546be64a2faac6a7a2421824906ee426ae9888790cf7962d0"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/meshes/partition_a.ply",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/meshes/partition_a.ply",
+    "sha256": "ea8abac75ff70a6ad0a2066910c4e2e67602c3339c76a1e86c263737d514c867"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/meshes/pillar_zone1.ply",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/meshes/pillar_zone1.ply",
+    "sha256": "6cc9d8f31493431d111d88076c45fefa4898b2e9ae48e6cacc0d1ddb75b171b9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/meshes/Pillow.ply",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/meshes/Pillow.ply",
+    "sha256": "a6852f89bcd3978c3dbe48be8d38478c348dd9b51ed96d141213e845e63d5289"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/meshes/Sofa.ply",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/meshes/Sofa.ply",
+    "sha256": "a17c16058c6fd2c4cb0d357aba284e7f3ef1e2f9b55528b0a9e4bdc2d48db323"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nochairroom/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/nochairroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/meshes/Bed.ply",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/meshes/Bed.ply",
+    "sha256": "9b5c995d27c848ab232da8fa8c518e725c9446528ade2490fed3944347f0d8c8"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/meshes/BedHead.ply",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/meshes/BedHead.ply",
+    "sha256": "9399be101ff5234acf16fe7e5688884e955dbfafbc47fa79f67d69ece32f9610"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/meshes/led_tv.ply",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/meshes/led_tv.ply",
+    "sha256": "be4c5948a2b45aa19c7273af06825b0aa15e8d1035e3c5d15a35a124a4e7f38a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/meshes/Pillow.ply",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/meshes/Pillow.ply",
+    "sha256": "a14f0e792f7c102595095bc9a50c82ed66be70c411606191c79d8aba6d74bf5f"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/meshes/Sofa.ply",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/meshes/Sofa.ply",
+    "sha256": "2c0d20120ab7b6e59860a09c1559c6e5bbed1485c3707b2d1f2e764f9bc4f8e4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/meshes/TableChair.ply",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/meshes/TableChair.ply",
+    "sha256": "9d11014980c148fd8293325de71b9870b4fab731dab1bb07a0b94618ceba2167"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nopartitionroom/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/nopartitionroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/meshes/Bed.ply",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/meshes/Bed.ply",
+    "sha256": "56da6760e677d3ab461e2a7abba2dd74f50fa51c133f06a98bc93f55f8508428"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/meshes/BedHead.ply",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/meshes/BedHead.ply",
+    "sha256": "4b89d7346f931b62437f7008829994389afcdad81c1ad97fb9da0bf44519eb54"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/meshes/led_tv.ply",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/meshes/led_tv.ply",
+    "sha256": "2889a8a7cc70f649365d038be74a63ccb3e788a4ba44edf34c13e68a27f691e8"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/meshes/partition_a.ply",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/meshes/partition_a.ply",
+    "sha256": "1aedfce994038ef4184e19085da9cfb7b0932f359fdd32429f7fb8485f5ffc49"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/meshes/pillar_zone1.ply",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/meshes/pillar_zone1.ply",
+    "sha256": "780739de99e38f58f73c712146e39c3756505a2dabb9934f456227bb617a004c"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/meshes/Pillow.ply",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/meshes/Pillow.ply",
+    "sha256": "5116dbb639598d1bce3b9ccba8df2e78f2d13a943595d2efd753284e1f1ef9a8"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/meshes/TableChair.ply",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/meshes/TableChair.ply",
+    "sha256": "f3ba368230fa06cf8115f56baccb1fb5dd761781b9728401b7dd904353e2be98"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/nosofaroom/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/nosofaroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/room1/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/meshes/led_tv.ply",
+    "published": "experiments/rf_surrogate/scenes/room1/meshes/led_tv.ply",
+    "sha256": "e2dfe2b9349d183c2895cbba4880821232fb157f401e3d0586982e5f637bb294"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/meshes/partition_a.ply",
+    "published": "experiments/rf_surrogate/scenes/room1/meshes/partition_a.ply",
+    "sha256": "0d6c4846a15f38b44f31ba9b5b2953dbed42f486531b18036836531132805880"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/meshes/pillar_zone1.ply",
+    "published": "experiments/rf_surrogate/scenes/room1/meshes/pillar_zone1.ply",
+    "sha256": "e16dd6a2ef36465cb40ee57a06398ab6bc3ed089700a8254832b167ada205936"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/meshes/Sofa.ply",
+    "published": "experiments/rf_surrogate/scenes/room1/meshes/Sofa.ply",
+    "sha256": "90f2f28f67b10a8e4d3bed8605a3b892d4ca25eb023ae81722edb5f3bd9423ac"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/meshes/TableChair.ply",
+    "published": "experiments/rf_surrogate/scenes/room1/meshes/TableChair.ply",
+    "sha256": "3fcc17cf05937d656166a260dc400e65eb2cb15965f5e09824756e128bb28588"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room1/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/room1/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room2/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/room2/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room2/meshes/led_tv.ply",
+    "published": "experiments/rf_surrogate/scenes/room2/meshes/led_tv.ply",
+    "sha256": "e2dfe2b9349d183c2895cbba4880821232fb157f401e3d0586982e5f637bb294"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room2/meshes/partition_a.ply",
+    "published": "experiments/rf_surrogate/scenes/room2/meshes/partition_a.ply",
+    "sha256": "0d6c4846a15f38b44f31ba9b5b2953dbed42f486531b18036836531132805880"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room2/meshes/Sofa.ply",
+    "published": "experiments/rf_surrogate/scenes/room2/meshes/Sofa.ply",
+    "sha256": "90f2f28f67b10a8e4d3bed8605a3b892d4ca25eb023ae81722edb5f3bd9423ac"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room2/meshes/TableChair.ply",
+    "published": "experiments/rf_surrogate/scenes/room2/meshes/TableChair.ply",
+    "sha256": "3fcc17cf05937d656166a260dc400e65eb2cb15965f5e09824756e128bb28588"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room2/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/room2/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/meshes/Bed.ply",
+    "published": "experiments/rf_surrogate/scenes/room3/meshes/Bed.ply",
+    "sha256": "b43c5518094d04fa2d0d81bfd28383da18e80a5307fdaf87cc43c9985148d9ed"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/meshes/BedHead.ply",
+    "published": "experiments/rf_surrogate/scenes/room3/meshes/BedHead.ply",
+    "sha256": "a4e0e02ec022ad2d1ae1806ca1c831bcdddfd8d7437dc49e75f3f813251b9536"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/room3/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/meshes/led_tv.ply",
+    "published": "experiments/rf_surrogate/scenes/room3/meshes/led_tv.ply",
+    "sha256": "e2dfe2b9349d183c2895cbba4880821232fb157f401e3d0586982e5f637bb294"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/meshes/partition_a.ply",
+    "published": "experiments/rf_surrogate/scenes/room3/meshes/partition_a.ply",
+    "sha256": "0d6c4846a15f38b44f31ba9b5b2953dbed42f486531b18036836531132805880"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/meshes/Pillow.ply",
+    "published": "experiments/rf_surrogate/scenes/room3/meshes/Pillow.ply",
+    "sha256": "b086f03a517f07884bd0080dd744d99a3ac66a3d05a0d95449930c986ce4fd80"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/meshes/Sofa.ply",
+    "published": "experiments/rf_surrogate/scenes/room3/meshes/Sofa.ply",
+    "sha256": "fe1a41835b1add363ba35a75292ae06e4635a192428cc7afd047062648fe8a11"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room3/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/room3/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/meshes/Bed.ply",
+    "published": "experiments/rf_surrogate/scenes/room4/meshes/Bed.ply",
+    "sha256": "8128398f4c838794787d95d8e4b020b5ad5161efe23c7d330bba8ff61ee2f61e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/meshes/BedHead.ply",
+    "published": "experiments/rf_surrogate/scenes/room4/meshes/BedHead.ply",
+    "sha256": "41ac51b560028914f38b90b42781d90e4cf09792ebaff17bdb5b017903c0e7b4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/room4/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/meshes/led_tv.ply",
+    "published": "experiments/rf_surrogate/scenes/room4/meshes/led_tv.ply",
+    "sha256": "e2dfe2b9349d183c2895cbba4880821232fb157f401e3d0586982e5f637bb294"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/meshes/partition_a.ply",
+    "published": "experiments/rf_surrogate/scenes/room4/meshes/partition_a.ply",
+    "sha256": "0d6c4846a15f38b44f31ba9b5b2953dbed42f486531b18036836531132805880"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/meshes/Pillow.ply",
+    "published": "experiments/rf_surrogate/scenes/room4/meshes/Pillow.ply",
+    "sha256": "aa09b6fc1f4411a1fe4ed3c02a486c91412049aa2de5d993e1840faa9d6d239f"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/meshes/Sofa.ply",
+    "published": "experiments/rf_surrogate/scenes/room4/meshes/Sofa.ply",
+    "sha256": "97715775ed83ba417d0565a44bde983b6042f121657522b8da246533ca9bdb45"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room4/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/room4/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/meshes/Bed.ply",
+    "published": "experiments/rf_surrogate/scenes/room5/meshes/Bed.ply",
+    "sha256": "003877df5e8996aab8d07631ffc2d61ee65c8ca5b50d8462189726635781e283"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/meshes/BedHead.ply",
+    "published": "experiments/rf_surrogate/scenes/room5/meshes/BedHead.ply",
+    "sha256": "74c109f66616b09833243c41bd598fc42c5de0e8e6dda0f7a9e902fd346766f7"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/meshes/floor.ply",
+    "published": "experiments/rf_surrogate/scenes/room5/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/meshes/pillar_zone1.ply",
+    "published": "experiments/rf_surrogate/scenes/room5/meshes/pillar_zone1.ply",
+    "sha256": "508ea0b0d0d5ad13266166e4c9c1cd13644a2e47e60e87c1239d5a6903126ae4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/meshes/Pillow.ply",
+    "published": "experiments/rf_surrogate/scenes/room5/meshes/Pillow.ply",
+    "sha256": "5875d3676a1c17efd812c738935235d34925b83c6ec5e50b6f078c37521ecb88"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/meshes/TableChair.ply",
+    "published": "experiments/rf_surrogate/scenes/room5/meshes/TableChair.ply",
+    "sha256": "98e3d9afbe296eae772fc1260b8c798052bab35dee7b0afc8b7abd92879d4763"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate/scenes/room5/meshes/walls.ply",
+    "published": "experiments/rf_surrogate/scenes/room5/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/benchmark_sionna.py",
+    "published": "experiments/rf_followup/benchmark_sionna.py",
+    "sha256": "f8f1d6e96e474362a86191403c561f2b82cf6dba95019d06f75ca93a2f76a06f"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/diagnostics.py",
+    "published": "experiments/rf_followup/diagnostics.py",
+    "sha256": "e43dd37e975612680e41bdb8876fe83d11758c368f077bbcadcd90f8f11cd3f4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/finalize.py",
+    "published": "experiments/rf_followup/finalize.py",
+    "sha256": "aa77c6dacc2c0344f2f70c6f526685d65cf36b2d0c5fcfeeb2a3c8732d35df49"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/followup.py",
+    "published": "experiments/rf_followup/followup.py",
+    "sha256": "e24cf4edae4b65f1ec0454b216be65692be7c69f27f73dd6c798ee48515c9cc4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/predict_followup.py",
+    "published": "experiments/rf_followup/predict_followup.py",
+    "sha256": "862bfd424d02300c4ca1b8329c249373cba5b0352f3dc01b48b8d8c61df6e253"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/generate_data.py",
+    "published": "experiments/wrfgs_one_room/generate_data.py",
+    "sha256": "4049b15858b8d516e560e773b082b5bc2dafad812a4fd39ba5bd8f12a72748b9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/rf_math.py",
+    "published": "experiments/wrfgs_one_room/rf_math.py",
+    "sha256": "586285e9763df1765cdc1457c60cf8c883308c2751fab06a30ad2a0a5ca16390"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/run_pipeline.py",
+    "published": "experiments/wrfgs_one_room/run_pipeline.py",
+    "sha256": "fe79c0b0846a2ae151325b4f661d320509658720e4b07aa156c2ee66ff0f4923"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/setup_colab.py",
+    "published": "experiments/wrfgs_one_room/setup_colab.py",
+    "sha256": "3f5633f8e879536029e59711dbe6c3fef476c41c7091edf83a9ed58b02b5ff49"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/test_rf_math.py",
+    "published": "experiments/wrfgs_one_room/test_rf_math.py",
+    "sha256": "86e296fde826afb6bd3f4d9bf7ec805f81c8ca076b15daf229ed966c0eff5bec"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/train_room.py",
+    "published": "experiments/wrfgs_one_room/train_room.py",
+    "sha256": "f14317d8da74d5c70ea089a0b95a953f4bf0d25b9bf0c9da920cceec591410c6"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/verify_runtime.py",
+    "published": "experiments/wrfgs_one_room/verify_runtime.py",
+    "sha256": "5c51ea6a488cfd4d05a1d8b006eee36f666e8c048b88f1b892b6f050031399a3"
+  },
+  {
+    "source": "WRFGS_Fullroom_Colab.ipynb",
+    "published": "notebooks/originals/WRFGS_Fullroom_Colab.ipynb",
+    "source_sha256": "8aa2b82024808fc9fdcc1fd979b8ffc967b9ff7daccef467e28516db3520bb0f",
+    "changes": "cleared outputs/metadata and private Colab links; Drive listing omitted"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/fullroom.xml",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/fullroom.xml",
+    "sha256": "25531b8c319a6fd1acc37954153e7985a8b66b8dc629a779e476dfbf65994185"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/fullroom_materials.xml",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/fullroom_materials.xml",
+    "sha256": "bcf710739551bfdc76705627c3c480319aa37a8b7a27f8d02c7ae873c300a7a5"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/fullroom_radio.xml",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/fullroom_radio.xml",
+    "sha256": "5b6336baec6965e5e063536a04137d53b31ae319fd9f48b77fe64f3184561432"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/Bed.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/Bed.ply",
+    "sha256": "b43c5518094d04fa2d0d81bfd28383da18e80a5307fdaf87cc43c9985148d9ed"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/BedHead.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/BedHead.ply",
+    "sha256": "a4e0e02ec022ad2d1ae1806ca1c831bcdddfd8d7437dc49e75f3f813251b9536"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/floor.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/led_tv.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/led_tv.ply",
+    "sha256": "8436601772aeb69546be64a2faac6a7a2421824906ee426ae9888790cf7962d0"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/partition_a.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/partition_a.ply",
+    "sha256": "a319d3584a046082a5c7ba3be6ea86822cded46f415696157a4005f1440a636b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/pillar_zone1.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/pillar_zone1.ply",
+    "sha256": "6cc9d8f31493431d111d88076c45fefa4898b2e9ae48e6cacc0d1ddb75b171b9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/Pillow.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/Pillow.ply",
+    "sha256": "b086f03a517f07884bd0080dd744d99a3ac66a3d05a0d95449930c986ce4fd80"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/Sofa.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/Sofa.ply",
+    "sha256": "ce15ab076c9011ad901b28e427c7ff6f50d64b1e7a6f4ce41393f44228e0e7cd"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/TableChair.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/TableChair.ply",
+    "sha256": "f3ba368230fa06cf8115f56baccb1fb5dd761781b9728401b7dd904353e2be98"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "wrfgs_one_room/scene_fullroom/meshes/walls.ply",
+    "published": "experiments/wrfgs_one_room/scene_fullroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/DistanceMatrix_Heatmap.png",
+    "published": "data/fourier/DistanceMatrix_Heatmap.png",
+    "sha256": "528f21c4adb3789ee8e140b836bb20bae98a034ab3fa98fd23f65508f1acbf72"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/Fourier_Heatmap.png",
+    "published": "data/fourier/Fourier_Heatmap.png",
+    "sha256": "90eda3c033b25c43f2475c1442477725a0369dd629688d105f362177ae42d197"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/fullroom.blend",
+    "published": "data/fourier/fullroom.blend",
+    "sha256": "1c77b08a03c4751d5ed123a11ab78d80d63075bb2c47d4116e94a18b8af2fa81"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/fullyfurnishedroom.blend",
+    "published": "data/fourier/fullyfurnishedroom.blend",
+    "sha256": "08b8825899dda0726036508d14287d4e6fdef5abc075527aff0fd3d7adbd72fa"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/master_object_list.csv",
+    "published": "data/fourier/master_object_list.csv",
+    "sha256": "bfc859b63e2e1ada55fd7d989a76c5946ef0aca83e7d7b30d8cae31f1b2dfdf3"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/nobedroom.blend",
+    "published": "data/fourier/nobedroom.blend",
+    "sha256": "41c85c44d02e2917da573bc9ef9f06629de4e712011964e38ad074007a7c44de"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/nochairroom.blend",
+    "published": "data/fourier/nochairroom.blend",
+    "sha256": "751701d0184b9ef534b6a600d46eed17d5a6fed4b1e697fb7959bdbfa7cf0436"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/nopartitionroom.blend",
+    "published": "data/fourier/nopartitionroom.blend",
+    "sha256": "39592ce22e4db3d8bcd8e14e4dc5314fe772ab49f1be50e62c7a6ebde24e22e9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/nosofaroom.blend",
+    "published": "data/fourier/nosofaroom.blend",
+    "sha256": "4f352557cfd2794b4ae8f05b60755687013da7620fc60a818d0c829cace2253c"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/room1.blend",
+    "published": "data/fourier/room1.blend",
+    "sha256": "5bc69ac1b07eba85639da9a5aa6be28874af4bb9a03651ba5e18ab886393368a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/room2.blend",
+    "published": "data/fourier/room2.blend",
+    "sha256": "1b39030288570568a48c420576a57bbe715045d4e704b7a8043416ef5d12e2d2"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/room3.blend",
+    "published": "data/fourier/room3.blend",
+    "sha256": "5e6d4b05abef3db2d911a692d7039bf39289f21fd953fa2a606053300ec90677"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/room4.blend",
+    "published": "data/fourier/room4.blend",
+    "sha256": "b8b60c2466a15dec3147aad629a6e18921f212f97e650562de3236104a8bde67"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/room5.blend",
+    "published": "data/fourier/room5.blend",
+    "sha256": "d6640a06e54de4b78505b13c3a62ae0f6581cac0e1fc7acac867d65866e9268d"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/fullroom.csv",
+    "published": "data/fourier/ExtractedCSV/fullroom.csv",
+    "sha256": "17d758f633ad3c7b213c1c6d4f61e0b07c5cee350c1794bd31cfbf8c02022d95"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/fullyfurnishedroom.csv",
+    "published": "data/fourier/ExtractedCSV/fullyfurnishedroom.csv",
+    "sha256": "0fa129747ddc5938c0b8e9d4715874743b2c7444e474c8978466106f549a9ee8"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/nobedroom.csv",
+    "published": "data/fourier/ExtractedCSV/nobedroom.csv",
+    "sha256": "70531c1d5d67c181ed61a9cdfb2fdc3184d691e9c0ae1be6c12fb1d23c99e781"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/nochairroom.csv",
+    "published": "data/fourier/ExtractedCSV/nochairroom.csv",
+    "sha256": "324ec4aea1f617d5e80427a795ccd4005ad1eb201b8114c729ae0d9ef7c0b143"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/nopartitionroom.csv",
+    "published": "data/fourier/ExtractedCSV/nopartitionroom.csv",
+    "sha256": "af5cc257bc2708b327bdbd2a0d88b0e11f788f34ed2895a25cd68de7478aea4c"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/nosofaroom.csv",
+    "published": "data/fourier/ExtractedCSV/nosofaroom.csv",
+    "sha256": "0870c37702cbc7bfe3bd63c31a9acbb873d1c04132fb4a41ca76b9e285ff728f"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/room1.csv",
+    "published": "data/fourier/ExtractedCSV/room1.csv",
+    "sha256": "0aef35394158fd3ff2cdb72439cced639a23012f21ca0cf935525b7d2dc38f46"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/room2.csv",
+    "published": "data/fourier/ExtractedCSV/room2.csv",
+    "sha256": "aa2951861e61ca842b518c70d33536bfeefea6f25dc4a3aa28a6ef751d6adf97"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/room3.csv",
+    "published": "data/fourier/ExtractedCSV/room3.csv",
+    "sha256": "f77fe312e89614f787a8972b02cc1d36ef29806b681b708b718158c5c7535337"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/room4.csv",
+    "published": "data/fourier/ExtractedCSV/room4.csv",
+    "sha256": "4436a06416b5fab91cd723c39d35330bd29317c826e9f66b8c19647c7a9ce74e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/ExtractedCSV/room5.csv",
+    "published": "data/fourier/ExtractedCSV/room5.csv",
+    "sha256": "8e3c3bb0a573cd7fd97281306816e1a3338dcbfe10a5f7da4ef82d54a24cbe03"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/fullroom_vector.csv",
+    "published": "data/fourier/SceneVectors/fullroom_vector.csv",
+    "sha256": "bced15aedabbb1db2e59381e1e3925150c30be9047a967cc1cbf7830f90cb73b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/fullyfurnishedroom_vector.csv",
+    "published": "data/fourier/SceneVectors/fullyfurnishedroom_vector.csv",
+    "sha256": "0aff282be7baae4c7d6d877c8a3b9dc37f40875c5e2c4331d18653e6dff5f8cd"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/nobedroom_vector.csv",
+    "published": "data/fourier/SceneVectors/nobedroom_vector.csv",
+    "sha256": "631a72ecf9e24545c851d8801d96085896c693d9aa719aa75c52dacd36a81aae"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/nochairroom_vector.csv",
+    "published": "data/fourier/SceneVectors/nochairroom_vector.csv",
+    "sha256": "e73e14d25fbf1c7155f6bacc2ce0d4b10ccf3a31f9d20a3d356520f665225536"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/nopartitionroom_vector.csv",
+    "published": "data/fourier/SceneVectors/nopartitionroom_vector.csv",
+    "sha256": "79cedbcc90e62ed7ec106a7d5d3975b3175b0e92b33c5d92e06595dfffa1dda5"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/nosofaroom_vector.csv",
+    "published": "data/fourier/SceneVectors/nosofaroom_vector.csv",
+    "sha256": "d65febcf8ce3e017f22630c14e7fe8fca5adda0018038cc574a93001fa095185"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/room1_vector.csv",
+    "published": "data/fourier/SceneVectors/room1_vector.csv",
+    "sha256": "dabc4f0eb03db6755693d448f079316673d59fdcda3ce239c6b5515b3717c5b4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/room2_vector.csv",
+    "published": "data/fourier/SceneVectors/room2_vector.csv",
+    "sha256": "c5d1a3e24cdd7525acc6d554d6d3a41807ddc4dfc15dcb3713b49f9a1f042faf"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/room3_vector.csv",
+    "published": "data/fourier/SceneVectors/room3_vector.csv",
+    "sha256": "4294f355ba12f3d729477d34c7dd2b79b253d339ca383369a47232e67483e519"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/room4_vector.csv",
+    "published": "data/fourier/SceneVectors/room4_vector.csv",
+    "sha256": "59b7ee97d78de0ca57ad4471bdbcaff073ad48a3233905fa590428109ef26764"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Fourier-20260911T075117Z-1-001/Fourier/SceneVectors/room5_vector.csv",
+    "published": "data/fourier/SceneVectors/room5_vector.csv",
+    "sha256": "239de8fef41016e4a8df66fd6c112741f175be8b33cae181f1d3bf9e19f6526f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/emptyroom.blend",
+    "published": "data/blender/emptyroom.blend",
+    "sha256": "f0c5e2221ef0dc1337077711d12157ea279ed2d4a43612bddfea19858c98edf0"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/fullroom.blend",
+    "published": "data/blender/fullroom.blend",
+    "sha256": "f2261714283edae66c3b65a2c038898291bf48153f3f524fe1c67788dccd1a9a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/fullroom.glb",
+    "published": "data/blender/fullroom.glb",
+    "sha256": "66f5319b9a455ea17cd39a762431d3a7fb3f6904362208c94a6c6a5063943fda"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/fullyfurnishedroom.blend",
+    "published": "data/blender/fullyfurnishedroom.blend",
+    "sha256": "08b8825899dda0726036508d14287d4e6fdef5abc075527aff0fd3d7adbd72fa"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/fullyfurnishedroom.glb",
+    "published": "data/blender/fullyfurnishedroom.glb",
+    "sha256": "c86fc7216e81caf9c52eef46c038872494149862305c1b0a45739c6b74754957"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/nobedroom.blend",
+    "published": "data/blender/nobedroom.blend",
+    "sha256": "41c85c44d02e2917da573bc9ef9f06629de4e712011964e38ad074007a7c44de"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/nobedroom.glb",
+    "published": "data/blender/nobedroom.glb",
+    "sha256": "2de374a9db500c76fe1a449fe803ac4bcf891755a6747142f020b1920526d60d"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/nochairroom.blend",
+    "published": "data/blender/nochairroom.blend",
+    "sha256": "751701d0184b9ef534b6a600d46eed17d5a6fed4b1e697fb7959bdbfa7cf0436"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/nochairroom.glb",
+    "published": "data/blender/nochairroom.glb",
+    "sha256": "3cefaa139fc457eed842021c30aea065237c3670426b16fd24ed06780d695b69"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/nopartitionroom.blend",
+    "published": "data/blender/nopartitionroom.blend",
+    "sha256": "39592ce22e4db3d8bcd8e14e4dc5314fe772ab49f1be50e62c7a6ebde24e22e9"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/nopartitionroom.glb",
+    "published": "data/blender/nopartitionroom.glb",
+    "sha256": "f838b45e78a7e8981e3a28d583f7c5348766f51f64f81e741b94d52c01bb617f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/nosofaroom.blend",
+    "published": "data/blender/nosofaroom.blend",
+    "sha256": "4f352557cfd2794b4ae8f05b60755687013da7620fc60a818d0c829cace2253c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/nosofaroom.glb",
+    "published": "data/blender/nosofaroom.glb",
+    "sha256": "58f49e4721f85e710e5691b841967b71f4c4179cfd71dc550d5edda60af54e6b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room1.blend",
+    "published": "data/blender/room1.blend",
+    "sha256": "5bc69ac1b07eba85639da9a5aa6be28874af4bb9a03651ba5e18ab886393368a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room1.glb",
+    "published": "data/blender/room1.glb",
+    "sha256": "1c43240fd3104b4ccfb732e7d5234c33dc01ecec569c6b03367f9ec477390463"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room2.blend",
+    "published": "data/blender/room2.blend",
+    "sha256": "1b39030288570568a48c420576a57bbe715045d4e704b7a8043416ef5d12e2d2"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room2.glb",
+    "published": "data/blender/room2.glb",
+    "sha256": "f5595ea91c14dd8b5cb99a3a89e7bd68367705403eaf5d721f43d2b99b932ca2"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room3.blend",
+    "published": "data/blender/room3.blend",
+    "sha256": "5e6d4b05abef3db2d911a692d7039bf39289f21fd953fa2a606053300ec90677"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room3.glb",
+    "published": "data/blender/room3.glb",
+    "sha256": "073592f0eeba53b94aeada599c603bf9dfadd2b271441f18427afbd13853ad47"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room4.blend",
+    "published": "data/blender/room4.blend",
+    "sha256": "b8b60c2466a15dec3147aad629a6e18921f212f97e650562de3236104a8bde67"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room4.glb",
+    "published": "data/blender/room4.glb",
+    "sha256": "f9725874fc92f032084148f6dcea7dd6377704283bd9e3dc3340e557814bebbd"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room5.blend",
+    "published": "data/blender/room5.blend",
+    "sha256": "d6640a06e54de4b78505b13c3a62ae0f6581cac0e1fc7acac867d65866e9268d"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/room5.glb",
+    "published": "data/blender/room5.glb",
+    "sha256": "3e6e0ee3f4ffd9147c12c8f1c344e61a28cad32509816ba563f9c15ee9d45702"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/emptyroom.csv",
+    "published": "data/blender/ExtractedCSV/emptyroom.csv",
+    "sha256": "feac523c27a1cae3d3ef55f23019f8aad895b68fa6db5162a205ccf8c6dca30e"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/fullroom.csv",
+    "published": "data/blender/ExtractedCSV/fullroom.csv",
+    "sha256": "a5f00024a68766e0d93c07521e3d23fff38edb3ca004c7ed2f8d8851e7583fe3"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/fullyfurnishedroom.csv",
+    "published": "data/blender/ExtractedCSV/fullyfurnishedroom.csv",
+    "sha256": "feac523c27a1cae3d3ef55f23019f8aad895b68fa6db5162a205ccf8c6dca30e"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/nobedroom.csv",
+    "published": "data/blender/ExtractedCSV/nobedroom.csv",
+    "sha256": "e2450c07e9c9eccf219bc012d759340a01336abedf253d2e700b27abed40ba1c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/nochairroom.csv",
+    "published": "data/blender/ExtractedCSV/nochairroom.csv",
+    "sha256": "e3b9c49871a9e05108a01d481aefd2d54962d7059bfcffd4130a1c35bf94eebc"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/nopartitionroom.csv",
+    "published": "data/blender/ExtractedCSV/nopartitionroom.csv",
+    "sha256": "c83567c3fcb363b7ff0b2b207b7bec10f538c4159157ee0ace36c892ead9d280"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/nosofaroom.csv",
+    "published": "data/blender/ExtractedCSV/nosofaroom.csv",
+    "sha256": "9ce0a5b5d550906aa72d51e647514e3404243e4445f6324795016cb7056953e2"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/room1.csv",
+    "published": "data/blender/ExtractedCSV/room1.csv",
+    "sha256": "0aef35394158fd3ff2cdb72439cced639a23012f21ca0cf935525b7d2dc38f46"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/room2.csv",
+    "published": "data/blender/ExtractedCSV/room2.csv",
+    "sha256": "aa2951861e61ca842b518c70d33536bfeefea6f25dc4a3aa28a6ef751d6adf97"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/room3.csv",
+    "published": "data/blender/ExtractedCSV/room3.csv",
+    "sha256": "f77fe312e89614f787a8972b02cc1d36ef29806b681b708b718158c5c7535337"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/room4.csv",
+    "published": "data/blender/ExtractedCSV/room4.csv",
+    "sha256": "4436a06416b5fab91cd723c39d35330bd29317c826e9f66b8c19647c7a9ce74e"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Blend/ExtractedCSV/room5.csv",
+    "published": "data/blender/ExtractedCSV/room5.csv",
+    "sha256": "8e3c3bb0a573cd7fd97281306816e1a3338dcbfe10a5f7da4ef82d54a24cbe03"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Embeddings & Similarity Results/normalized_rf_embeddings.csv",
+    "published": "data/sionna_scenes/Embeddings & Similarity Results/normalized_rf_embeddings.csv",
+    "sha256": "19179d36f7f93459e7313c2528407efab25172b5de0dc7915cdbcf8564fd5183"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Embeddings & Similarity Results/rf_pca_2d.csv",
+    "published": "data/sionna_scenes/Embeddings & Similarity Results/rf_pca_2d.csv",
+    "sha256": "314816a388f4def1e6e7d81821d3a0d8142272bf1e6b150e6820c97d5954c816"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Embeddings & Similarity Results/rf_pca_visualization.png",
+    "published": "data/sionna_scenes/Embeddings & Similarity Results/rf_pca_visualization.png",
+    "sha256": "28882df5259c4e9cb41bf0e36bec26ce9ef321515122e16cf1409421c1791231"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Embeddings & Similarity Results/rf_similarity_0_1.csv",
+    "published": "data/sionna_scenes/Embeddings & Similarity Results/rf_similarity_0_1.csv",
+    "sha256": "17fea4c597bf746f699dab5ad2ffa2b980bf0bb861c2376457dcd15b9ea2131b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Embeddings & Similarity Results/rf_similarity_cosine.csv",
+    "published": "data/sionna_scenes/Embeddings & Similarity Results/rf_similarity_cosine.csv",
+    "sha256": "6a3f4a50e99566a49d4c99cb3b1a44f32ba9adc83f841ca27e2c11b9bc88c40a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Embeddings & Similarity Results/rf_similarity_heatmap.png",
+    "published": "data/sionna_scenes/Embeddings & Similarity Results/rf_similarity_heatmap.png",
+    "sha256": "b59440a8b764ef5bc2804afa0bbe5baf2a1e2167f9766bf32e122f0a085ca633"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Embeddings & Similarity Results/rx_robustness_results.csv",
+    "published": "data/sionna_scenes/Embeddings & Similarity Results/rx_robustness_results.csv",
+    "sha256": "45bf3f6c6caed319346832e50dec8e06a6ace62deb441a1052e4cff97cea58b4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/fullroom/fullroom_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/fullroom/fullroom_rx_summary.csv",
+    "sha256": "020d841f62e30a5b2ba16077d0c4f6d7eee018fb9d762059c7ee4442b4b123b1"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/fullyfurnishedroom/fullyfurnishedroom_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/fullyfurnishedroom/fullyfurnishedroom_rx_summary.csv",
+    "sha256": "425d18e8addef5778c37c8c886732e2b2c9bf50e340af49ceb3df3543db44982"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/nobedroom/nobedroom_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/nobedroom/nobedroom_rx_summary.csv",
+    "sha256": "607a7dcce0e827c69d692fe4fb900f436ed6e0ddb31f55fb9619ca188f8d4889"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/nochairroom/nochairroom_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/nochairroom/nochairroom_rx_summary.csv",
+    "sha256": "c105865b12751355d4047ab359c274a2888e91d45ba5cef0668b2f34d17e6ba9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/nopartitionroom/nopartitionroom_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/nopartitionroom/nopartitionroom_rx_summary.csv",
+    "sha256": "407304a99696b767b2b8f9c6fa231064bcecdee7f74bbbe2b4cfb470db3f6d46"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/nosofaroom/nosofaroom_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/nosofaroom/nosofaroom_rx_summary.csv",
+    "sha256": "2e3633cb4fb392d60142b09508a20bcf385e6511c96146ee78aeb330875777f4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/room1/room1_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/room1/room1_rx_summary.csv",
+    "sha256": "cef6f5ded28c129493e74eb6ff55e264a4af64d3cb78c381ef6ad94591bf9e83"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/room2/room2_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/room2/room2_rx_summary.csv",
+    "sha256": "cb2186aac4d8f0cbb4a348f84ae9be5527fe67a166aa2fa2431d7d22d192e28a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/room3/room3_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/room3/room3_rx_summary.csv",
+    "sha256": "5aa28e5016ea07ab8576ca7fe3718e060fe39fe2f0388ac57e836a6d45ba1ed4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/room4/room4_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/room4/room4_rx_summary.csv",
+    "sha256": "a054c1016128facca9aaaa152bda548e59e8e6435b1798141b2e7e18f56ab55c"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Result_Dir/room5/room5_rx_summary.csv",
+    "published": "data/sionna_scenes/Result_Dir/room5/room5_rx_summary.csv",
+    "sha256": "3ee690f9b84a0aedbe77f37ecb558e9ce567b4d537334b64525d6d7001486150"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/fullroom.xml",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/fullroom.xml",
+    "sha256": "25531b8c319a6fd1acc37954153e7985a8b66b8dc629a779e476dfbf65994185"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/fullroom_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/fullroom_materials.xml",
+    "sha256": "bcf710739551bfdc76705627c3c480319aa37a8b7a27f8d02c7ae873c300a7a5"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/fullroom_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/fullroom_radio.xml",
+    "sha256": "5b6336baec6965e5e063536a04137d53b31ae319fd9f48b77fe64f3184561432"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/fullyfurnishedroom.xml",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/fullyfurnishedroom.xml",
+    "sha256": "3cbcfc93b610bb12b69870edf7a611ea7951bd3092c2ce55d7ecca07c237b468"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/fullyfurnishedroom_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/fullyfurnishedroom_materials.xml",
+    "sha256": "83be5bf8a1e95567da29814ffa9545c2e687e0ea3398004e2211b6c9f0173fa1"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/fullyfurnishedroom_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/fullyfurnishedroom_radio.xml",
+    "sha256": "4a26adf174d018aa1c0362e260ff58d5ca9ddb788acd0c7bf14a624794ae19b2"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nobedroom/nobedroom.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nobedroom/nobedroom.xml",
+    "sha256": "f8b19e1b5539d6e765793048527db5e54ec0780e87af79a7dd1e8a26b951e9f7"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nobedroom/nobedroom_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nobedroom/nobedroom_materials.xml",
+    "sha256": "a4ebd08eede86182817d6774871c988139eaa9a45ceed9af766a5af2cc252785"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nobedroom/nobedroom_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nobedroom/nobedroom_radio.xml",
+    "sha256": "ef6a1f898e051e254b06d7424592799d3ab0e66a767c9974c167c6f58049fcac"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/nochairroom.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/nochairroom.xml",
+    "sha256": "4ca26d1cac6c23ad1b0bb1a7849c0432791fe9a85b16a2c313a7aefcc4bc205e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/nochairroom_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/nochairroom_materials.xml",
+    "sha256": "4aaab78dfe59361587994090715fd8bb0edd272217f02a53a6499368e619c134"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/nochairroom_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/nochairroom_radio.xml",
+    "sha256": "8115b9e63124683c634fe2255d7fe9df4f2e199cdecc21e4e85e8b260d1233ed"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/nopartitionroom.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/nopartitionroom.xml",
+    "sha256": "f9102a7ab0836211d49c2967a89dd88e6ca8abc5dd19688aa76b00bc689c08a3"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/nopartitionroom_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/nopartitionroom_materials.xml",
+    "sha256": "4b068e8c3bcce1159ab72c82f468b3a89b840f002bc55f6b3df9a5f16b3f59f7"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/nopartitionroom_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/nopartitionroom_radio.xml",
+    "sha256": "3447141211e4d6925735d9ff964982ff2b620197ddfcd126745a44543eb59d69"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/nosofaroom.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/nosofaroom.xml",
+    "sha256": "eabe37e1dcb460e0404771e8236734d9ab64fb8fa0359eb4cbac785062d43356"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/nosofaroom_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/nosofaroom_materials.xml",
+    "sha256": "2b61b16615e29c5311592434b2638b5a6c8de7083d0c8ab5df336859de15d97b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/nosofaroom_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/nosofaroom_radio.xml",
+    "sha256": "1d3d5d5b1f48dc95e4948d2b54f797af8998963acef5eefa1ca65892615159a5"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/room1.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room1/room1.xml",
+    "sha256": "6a61ddc122c54d0a03368a208515465eb4ac82c8c41368ad96fe3d8946ced68d"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/room1_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room1/room1_materials.xml",
+    "sha256": "cda52712f038005aec34672264290b9ba94749f02e7453ea4b78e10ee2f87362"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/room1_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room1/room1_radio.xml",
+    "sha256": "4a41df9c6fd2bc18db7f74596ae477feefe7a25a65d1da157ded4958c2d0848a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room2/room2.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room2/room2.xml",
+    "sha256": "adfae538003200f79861dce02a513549f9592119df073cb48bda48c3ee70e09a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room2/room2_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room2/room2_materials.xml",
+    "sha256": "70759939cf61668e7f1ab00c3a94fc20b7b0a7a2d3ac8fc1cc3dc7c6b291a7bb"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room2/room2_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room2/room2_radio.xml",
+    "sha256": "65561fca8711413da77fb4f05890d03b5f6841af98ba75fbd3c022bbbcaf4f5e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/room3.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room3/room3.xml",
+    "sha256": "498a93cf257efca8672d32558c17b45a7f4f2ff872f600475269bf97447b901a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/room3_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room3/room3_materials.xml",
+    "sha256": "8f71e1f61dfbee5a111e7ba4abc228db5f26ca794f9d8fd4d381f3f39642b2ef"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/room3_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room3/room3_radio.xml",
+    "sha256": "fa84c4adb862762f7f2361165cbe1748e139da39ea6570f0340fa4c18ea8bad3"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/room4.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room4/room4.xml",
+    "sha256": "498a93cf257efca8672d32558c17b45a7f4f2ff872f600475269bf97447b901a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/room4_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room4/room4_materials.xml",
+    "sha256": "8f71e1f61dfbee5a111e7ba4abc228db5f26ca794f9d8fd4d381f3f39642b2ef"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/room4_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room4/room4_radio.xml",
+    "sha256": "fa84c4adb862762f7f2361165cbe1748e139da39ea6570f0340fa4c18ea8bad3"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/room5.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room5/room5.xml",
+    "sha256": "aebe386d7be1467b56e26ce28844e04452c5a07572d0d7123716a89fa03d5e16"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/room5_materials.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room5/room5_materials.xml",
+    "sha256": "392986c290437426c796cc578712795feb8f965a6c74a513d4086fed95472054"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/room5_radio.xml",
+    "published": "data/sionna_scenes/Rooms_XML/room5/room5_radio.xml",
+    "sha256": "c5ced64ca010bcc800e2da34ffaf852006f78457ccd164b97c11c3b307d9e1df"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/Bed.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/Bed.ply",
+    "sha256": "b43c5518094d04fa2d0d81bfd28383da18e80a5307fdaf87cc43c9985148d9ed"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/BedHead.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/BedHead.ply",
+    "sha256": "a4e0e02ec022ad2d1ae1806ca1c831bcdddfd8d7437dc49e75f3f813251b9536"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/led_tv.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/led_tv.ply",
+    "sha256": "8436601772aeb69546be64a2faac6a7a2421824906ee426ae9888790cf7962d0"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/partition_a.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/partition_a.ply",
+    "sha256": "a319d3584a046082a5c7ba3be6ea86822cded46f415696157a4005f1440a636b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/pillar_zone1.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/pillar_zone1.ply",
+    "sha256": "6cc9d8f31493431d111d88076c45fefa4898b2e9ae48e6cacc0d1ddb75b171b9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/Pillow.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/Pillow.ply",
+    "sha256": "b086f03a517f07884bd0080dd744d99a3ac66a3d05a0d95449930c986ce4fd80"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/Sofa.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/Sofa.ply",
+    "sha256": "ce15ab076c9011ad901b28e427c7ff6f50d64b1e7a6f4ce41393f44228e0e7cd"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/TableChair.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/TableChair.ply",
+    "sha256": "f3ba368230fa06cf8115f56baccb1fb5dd761781b9728401b7dd904353e2be98"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullroom/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/meshes/Bed.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/meshes/Bed.ply",
+    "sha256": "e4cac0ccb181d76f574130e1245eff19c29b5c60ed0e598b20e4589b6bff24ec"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/meshes/BedHead.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/meshes/BedHead.ply",
+    "sha256": "a04266d595e49a08e563b3efe8473484ca6506f4ceefd3b716c25fa25fe5b17c"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/meshes/led_tv.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/meshes/led_tv.ply",
+    "sha256": "88052812fda1f2148111bbb8bb24e6bbe20519b0971f9f720a9be3c1adc8483b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/meshes/pillar_zone1.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/meshes/pillar_zone1.ply",
+    "sha256": "ee9f30a7af13be85c698f7314312a2790ad2b97cfbce4778cdc2ba7b53edc470"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/meshes/Pillow.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/meshes/Pillow.ply",
+    "sha256": "b61cbd4dcd5f67a1c14eac8970f6594231975792805b0ccbc274541b30faf529"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/meshes/Sofa.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/meshes/Sofa.ply",
+    "sha256": "e38f6a7879356bd93a9cf3fdf4de46c85276dc0713d37848efdfcf164bd32405"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/meshes/TableChair.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/meshes/TableChair.ply",
+    "sha256": "e99d003a025f3a8548541402dfe5be743415f455673527206461909b541c0337"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/fullyfurnishedroom/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/fullyfurnishedroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nobedroom/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nobedroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nobedroom/meshes/partition_a.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nobedroom/meshes/partition_a.ply",
+    "sha256": "4fa70732b2c1b5eff5c282d2f15f903850f63d97ec9200062f90249418f12592"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nobedroom/meshes/pillar_zone1.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nobedroom/meshes/pillar_zone1.ply",
+    "sha256": "6cc9d8f31493431d111d88076c45fefa4898b2e9ae48e6cacc0d1ddb75b171b9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nobedroom/meshes/Sofa.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nobedroom/meshes/Sofa.ply",
+    "sha256": "a17c16058c6fd2c4cb0d357aba284e7f3ef1e2f9b55528b0a9e4bdc2d48db323"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nobedroom/meshes/TableChair.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nobedroom/meshes/TableChair.ply",
+    "sha256": "f3ba368230fa06cf8115f56baccb1fb5dd761781b9728401b7dd904353e2be98"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nobedroom/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nobedroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/meshes/Bed.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/meshes/Bed.ply",
+    "sha256": "17faa19203b88d372cfcab45032099db89c7f841162f39f95e94969aec10913e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/meshes/BedHead.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/meshes/BedHead.ply",
+    "sha256": "305fb994ef775a3a0ad8b60c69ae79ca1c638ec437ffd982bfeaea41a5e71f4d"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/meshes/led_tv.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/meshes/led_tv.ply",
+    "sha256": "8436601772aeb69546be64a2faac6a7a2421824906ee426ae9888790cf7962d0"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/meshes/partition_a.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/meshes/partition_a.ply",
+    "sha256": "ea8abac75ff70a6ad0a2066910c4e2e67602c3339c76a1e86c263737d514c867"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/meshes/pillar_zone1.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/meshes/pillar_zone1.ply",
+    "sha256": "6cc9d8f31493431d111d88076c45fefa4898b2e9ae48e6cacc0d1ddb75b171b9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/meshes/Pillow.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/meshes/Pillow.ply",
+    "sha256": "a6852f89bcd3978c3dbe48be8d38478c348dd9b51ed96d141213e845e63d5289"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/meshes/Sofa.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/meshes/Sofa.ply",
+    "sha256": "a17c16058c6fd2c4cb0d357aba284e7f3ef1e2f9b55528b0a9e4bdc2d48db323"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nochairroom/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nochairroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/meshes/Bed.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/meshes/Bed.ply",
+    "sha256": "9b5c995d27c848ab232da8fa8c518e725c9446528ade2490fed3944347f0d8c8"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/meshes/BedHead.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/meshes/BedHead.ply",
+    "sha256": "9399be101ff5234acf16fe7e5688884e955dbfafbc47fa79f67d69ece32f9610"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/meshes/led_tv.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/meshes/led_tv.ply",
+    "sha256": "be4c5948a2b45aa19c7273af06825b0aa15e8d1035e3c5d15a35a124a4e7f38a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/meshes/Pillow.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/meshes/Pillow.ply",
+    "sha256": "a14f0e792f7c102595095bc9a50c82ed66be70c411606191c79d8aba6d74bf5f"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/meshes/Sofa.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/meshes/Sofa.ply",
+    "sha256": "2c0d20120ab7b6e59860a09c1559c6e5bbed1485c3707b2d1f2e764f9bc4f8e4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/meshes/TableChair.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/meshes/TableChair.ply",
+    "sha256": "9d11014980c148fd8293325de71b9870b4fab731dab1bb07a0b94618ceba2167"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nopartitionroom/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nopartitionroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/meshes/Bed.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/meshes/Bed.ply",
+    "sha256": "56da6760e677d3ab461e2a7abba2dd74f50fa51c133f06a98bc93f55f8508428"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/meshes/BedHead.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/meshes/BedHead.ply",
+    "sha256": "4b89d7346f931b62437f7008829994389afcdad81c1ad97fb9da0bf44519eb54"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/meshes/led_tv.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/meshes/led_tv.ply",
+    "sha256": "2889a8a7cc70f649365d038be74a63ccb3e788a4ba44edf34c13e68a27f691e8"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/meshes/partition_a.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/meshes/partition_a.ply",
+    "sha256": "1aedfce994038ef4184e19085da9cfb7b0932f359fdd32429f7fb8485f5ffc49"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/meshes/pillar_zone1.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/meshes/pillar_zone1.ply",
+    "sha256": "780739de99e38f58f73c712146e39c3756505a2dabb9934f456227bb617a004c"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/meshes/Pillow.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/meshes/Pillow.ply",
+    "sha256": "5116dbb639598d1bce3b9ccba8df2e78f2d13a943595d2efd753284e1f1ef9a8"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/meshes/TableChair.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/meshes/TableChair.ply",
+    "sha256": "f3ba368230fa06cf8115f56baccb1fb5dd761781b9728401b7dd904353e2be98"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/nosofaroom/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/nosofaroom/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room1/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/meshes/led_tv.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room1/meshes/led_tv.ply",
+    "sha256": "e2dfe2b9349d183c2895cbba4880821232fb157f401e3d0586982e5f637bb294"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/meshes/partition_a.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room1/meshes/partition_a.ply",
+    "sha256": "0d6c4846a15f38b44f31ba9b5b2953dbed42f486531b18036836531132805880"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/meshes/pillar_zone1.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room1/meshes/pillar_zone1.ply",
+    "sha256": "e16dd6a2ef36465cb40ee57a06398ab6bc3ed089700a8254832b167ada205936"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/meshes/Sofa.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room1/meshes/Sofa.ply",
+    "sha256": "90f2f28f67b10a8e4d3bed8605a3b892d4ca25eb023ae81722edb5f3bd9423ac"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/meshes/TableChair.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room1/meshes/TableChair.ply",
+    "sha256": "3fcc17cf05937d656166a260dc400e65eb2cb15965f5e09824756e128bb28588"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room1/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room1/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room2/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room2/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room2/meshes/led_tv.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room2/meshes/led_tv.ply",
+    "sha256": "e2dfe2b9349d183c2895cbba4880821232fb157f401e3d0586982e5f637bb294"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room2/meshes/partition_a.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room2/meshes/partition_a.ply",
+    "sha256": "0d6c4846a15f38b44f31ba9b5b2953dbed42f486531b18036836531132805880"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room2/meshes/Sofa.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room2/meshes/Sofa.ply",
+    "sha256": "90f2f28f67b10a8e4d3bed8605a3b892d4ca25eb023ae81722edb5f3bd9423ac"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room2/meshes/TableChair.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room2/meshes/TableChair.ply",
+    "sha256": "3fcc17cf05937d656166a260dc400e65eb2cb15965f5e09824756e128bb28588"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room2/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room2/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/meshes/Bed.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room3/meshes/Bed.ply",
+    "sha256": "b43c5518094d04fa2d0d81bfd28383da18e80a5307fdaf87cc43c9985148d9ed"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/meshes/BedHead.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room3/meshes/BedHead.ply",
+    "sha256": "a4e0e02ec022ad2d1ae1806ca1c831bcdddfd8d7437dc49e75f3f813251b9536"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room3/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/meshes/led_tv.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room3/meshes/led_tv.ply",
+    "sha256": "e2dfe2b9349d183c2895cbba4880821232fb157f401e3d0586982e5f637bb294"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/meshes/partition_a.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room3/meshes/partition_a.ply",
+    "sha256": "0d6c4846a15f38b44f31ba9b5b2953dbed42f486531b18036836531132805880"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/meshes/Pillow.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room3/meshes/Pillow.ply",
+    "sha256": "b086f03a517f07884bd0080dd744d99a3ac66a3d05a0d95449930c986ce4fd80"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/meshes/Sofa.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room3/meshes/Sofa.ply",
+    "sha256": "fe1a41835b1add363ba35a75292ae06e4635a192428cc7afd047062648fe8a11"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room3/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room3/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/meshes/Bed.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room4/meshes/Bed.ply",
+    "sha256": "8128398f4c838794787d95d8e4b020b5ad5161efe23c7d330bba8ff61ee2f61e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/meshes/BedHead.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room4/meshes/BedHead.ply",
+    "sha256": "41ac51b560028914f38b90b42781d90e4cf09792ebaff17bdb5b017903c0e7b4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room4/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/meshes/led_tv.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room4/meshes/led_tv.ply",
+    "sha256": "e2dfe2b9349d183c2895cbba4880821232fb157f401e3d0586982e5f637bb294"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/meshes/partition_a.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room4/meshes/partition_a.ply",
+    "sha256": "0d6c4846a15f38b44f31ba9b5b2953dbed42f486531b18036836531132805880"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/meshes/Pillow.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room4/meshes/Pillow.ply",
+    "sha256": "aa09b6fc1f4411a1fe4ed3c02a486c91412049aa2de5d993e1840faa9d6d239f"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/meshes/Sofa.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room4/meshes/Sofa.ply",
+    "sha256": "97715775ed83ba417d0565a44bde983b6042f121657522b8da246533ca9bdb45"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room4/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room4/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/meshes/Bed.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room5/meshes/Bed.ply",
+    "sha256": "003877df5e8996aab8d07631ffc2d61ee65c8ca5b50d8462189726635781e283"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/meshes/BedHead.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room5/meshes/BedHead.ply",
+    "sha256": "74c109f66616b09833243c41bd598fc42c5de0e8e6dda0f7a9e902fd346766f7"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/meshes/floor.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room5/meshes/floor.ply",
+    "sha256": "93c90f988fcbd1567ae7d06922d690b03eca1eb5db1de34b3c15ca8fe9b2965e"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/meshes/pillar_zone1.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room5/meshes/pillar_zone1.ply",
+    "sha256": "508ea0b0d0d5ad13266166e4c9c1cd13644a2e47e60e87c1239d5a6903126ae4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/meshes/Pillow.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room5/meshes/Pillow.ply",
+    "sha256": "5875d3676a1c17efd812c738935235d34925b83c6ec5e50b6f078c37521ecb88"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/meshes/TableChair.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room5/meshes/TableChair.ply",
+    "sha256": "98e3d9afbe296eae772fc1260b8c798052bab35dee7b0afc8b7abd92879d4763"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "Sionna Room-20260911T075059Z-1-001/Sionna Room/Rooms_XML/room5/meshes/walls.ply",
+    "published": "data/sionna_scenes/Rooms_XML/room5/meshes/walls.ply",
+    "sha256": "9a353192415108578384782afd2cf10ec4e77d0b7208579a2d7e859f19201e59"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "00001.png",
+    "published": "data/original_figures/00001.png",
+    "sha256": "5cb26fc2d12f2c69ac7f646f20c265f62623adf47133e03c368c56a9e38f7c12"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "1a.png",
+    "published": "data/original_figures/1a.png",
+    "sha256": "fcb7ea9747227831ebee4936467506252b97c083551d5337ae213e5f584aa928"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "1b.png",
+    "published": "data/original_figures/1b.png",
+    "sha256": "1f97af2978aaaa6e69d69c9806b036c96b6ace44cc0f6657d3eaa7961bdae42a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "1c.png",
+    "published": "data/original_figures/1c.png",
+    "sha256": "b2390060f9c638e52c8a63c3a31e520995d84363a2ac7e9da2e7083c38f1bb2f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "1d.png",
+    "published": "data/original_figures/1d.png",
+    "sha256": "f7a71219e3a8c3a90a7106a156cd4af2e86efd0b7f67bd0347f048ef14d29760"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "a0.png",
+    "published": "data/original_figures/a0.png",
+    "sha256": "ccea68a8c93a687531f670613c6f15f4a4aeb8d0b779af9ede3310bc8cda1ed3"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "a135.png",
+    "published": "data/original_figures/a135.png",
+    "sha256": "fcccadad787c088db1d6b35be08712c2cddead1261985932aceb12d19e257824"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "a180.png",
+    "published": "data/original_figures/a180.png",
+    "sha256": "681d5f701e89202d214172e5206e0eada461a4ce30a37a6c5e5579bba0075f03"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "a225.png",
+    "published": "data/original_figures/a225.png",
+    "sha256": "b9ac80bd0f3e3137ee95c2047b9e360fdfa8060fbb4ccc5201070231bbc54c13"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "a270.png",
+    "published": "data/original_figures/a270.png",
+    "sha256": "72fd27afd511b56faffbbdf266a8d0e0208a01dc4a74841dbd2b4b007fd4a7ea"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "a315.png",
+    "published": "data/original_figures/a315.png",
+    "sha256": "a263a8b67953647ab7d930d0c1411e6347f50e29ddf0f25cff8e1480844bba9b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "a45.png",
+    "published": "data/original_figures/a45.png",
+    "sha256": "931531c6ab7cd977c18ae980c4ab20981a3d14e8cb6ec34e7642d09953a35ff2"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "a90.png",
+    "published": "data/original_figures/a90.png",
+    "sha256": "6fadc5a2ff415622cc4fc4321693c6978e168e5b77c65273ee4503750b26afd6"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "b0.png",
+    "published": "data/original_figures/b0.png",
+    "sha256": "6c8c72df717a1ad0798799ed53a38c5d8b4ce1518564edfc2ef3ac7367ae01a0"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "b135.png",
+    "published": "data/original_figures/b135.png",
+    "sha256": "61e4f08a8b63e2db829756045e2d1519f3064bc58b5775dbe6e0af2d4b32d234"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "b180.png",
+    "published": "data/original_figures/b180.png",
+    "sha256": "d0e21734206aa2194b94a003691bdffe95be19ee337b72497ae95c117e070997"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "b225.png",
+    "published": "data/original_figures/b225.png",
+    "sha256": "b00a4aa2d871bb5be48a10a3777191ac1b8d81dd052a9c8bc88cd01d2a31ff42"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "b270.png",
+    "published": "data/original_figures/b270.png",
+    "sha256": "f7cb6552ae967a28339c491a8c4dc6db1ee70fb26f82bac95d7b374c7403b022"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "b315.png",
+    "published": "data/original_figures/b315.png",
+    "sha256": "dba0904f223144d13357ba2331e4a7e100dad9ea8051bdcbc122d4a8470cf875"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "b45.png",
+    "published": "data/original_figures/b45.png",
+    "sha256": "8a80b2f445e14334e2ed556e8617ce14087c4b7a43e4b30f813654b02b26eefc"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "b90.png",
+    "published": "data/original_figures/b90.png",
+    "sha256": "8624b9560224ec132c505286f3f0830e0756b8d3cd67dd0a9e12d057a5e0c50c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "c0.png",
+    "published": "data/original_figures/c0.png",
+    "sha256": "cd7d069ebb708f02699397ed492561b439e826aa17f0405a37e1453f6644b819"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "c135.png",
+    "published": "data/original_figures/c135.png",
+    "sha256": "791afc88c1f4cdc4385592b8811dca0747b7db1850496e6dc6466a4190957262"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "c180.png",
+    "published": "data/original_figures/c180.png",
+    "sha256": "668e60e12debfb2792b121140441d53fced560bcf2b971ca413dc22dc9a715ae"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "c225.png",
+    "published": "data/original_figures/c225.png",
+    "sha256": "9ccc20ca6ad644043a31e1e961262460e5d363c31e5a46dad76596a5bf1e850b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "c270.png",
+    "published": "data/original_figures/c270.png",
+    "sha256": "bb475c17095f2dd357d924e4fcfb84840c4b27375a8209d4a039847cfa8cb60f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "c315.png",
+    "published": "data/original_figures/c315.png",
+    "sha256": "8b376eb7852e438332cf89762b68af87c0078c7ac204f028ecf10d070312759e"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "c45.png",
+    "published": "data/original_figures/c45.png",
+    "sha256": "15cbb8fbafc9d7845ab82e34bb57e54f1f238fb00fb4cef3bcc93e64c347059b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "c90.png",
+    "published": "data/original_figures/c90.png",
+    "sha256": "2ead7701a5e1687a6fa66654ebc4438cd9f548979a44291c61e0c360497b6adb"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "cbf_power.csv",
+    "published": "data/original_figures/cbf_power.csv",
+    "sha256": "fe92269087433ab668427c09e09145f1b0d99496a6c7cb895a4edf83fe940cd5"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "ceiling.ply",
+    "published": "data/scene_sources/ceiling.ply",
+    "sha256": "e582e5f84cf7b0362ce0ebeade1c73d92aaa3f46aa923d07943f8f96cbb43e1d"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "cube.glb.blend",
+    "published": "data/scene_sources/cube.glb.blend",
+    "sha256": "705ea49a066f8d9ad1293ca3f3e407e60387f7b76a76e4c9e444a29338b35bf9"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "d0.png",
+    "published": "data/original_figures/d0.png",
+    "sha256": "9cba029465cd9055d59cac4883427c788900544fc24c46a746bd0e0eab7691ec"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "d135.png",
+    "published": "data/original_figures/d135.png",
+    "sha256": "248d8ea4519ccf67a35cfa53e3335740336ea85d34c611052e4ba05e522cfd1c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "d180.png",
+    "published": "data/original_figures/d180.png",
+    "sha256": "3292a6d968f3a745ff7f39eb22a055761c5e86d977d1db08a4e40a426c5503cd"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "d215.png",
+    "published": "data/original_figures/d215.png",
+    "sha256": "d4ae95253b7e6e549e69cada9efcb2efd47f2cda82a7f18afd98b1e0b3d54984"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "d270.png",
+    "published": "data/original_figures/d270.png",
+    "sha256": "a15cd382ebffc8d04c6df210a4b622a00214c6cb74e6f4361b8f1c982260e92f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "d315.png",
+    "published": "data/original_figures/d315.png",
+    "sha256": "97737ba8b91fda3ba8a0be6f96f761b92bb5a638de1c76873040a9d5e1aba447"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "d45.png",
+    "published": "data/original_figures/d45.png",
+    "sha256": "4a89bce28a85cbf831fac7f3bc4df39b1f1ccb3e3ff6a1f39418b499f520fdfd"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "d90.png",
+    "published": "data/original_figures/d90.png",
+    "sha256": "537c8ca1a254c71a8605682d0dae1007e0784101031febc3b694dfa64bd68a7f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "DistanceMatrix_Heatmap (1).png",
+    "published": "data/original_figures/DistanceMatrix_Heatmap (1).png",
+    "sha256": "f93f1b85545e7dcac87e5019305453384df6d4b980bb4dcd04dd62d124801f58"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "DistanceMatrix_Heatmap (2).png",
+    "published": "data/original_figures/DistanceMatrix_Heatmap (2).png",
+    "sha256": "528f21c4adb3789ee8e140b836bb20bae98a034ab3fa98fd23f65508f1acbf72"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "DistanceMatrix_Heatmap.png",
+    "published": "data/original_figures/DistanceMatrix_Heatmap.png",
+    "sha256": "f93f1b85545e7dcac87e5019305453384df6d4b980bb4dcd04dd62d124801f58"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "e0.png",
+    "published": "data/original_figures/e0.png",
+    "sha256": "1a30ce5f7869ddb33c515d0093ac979741aff74ae1aa0d95a2a4472616c4ebbe"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "e135.png",
+    "published": "data/original_figures/e135.png",
+    "sha256": "88d066e6343a353a367e8cd7e3abc75c0a7bc4d1a32ff6d20d9985b3270b74c2"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "e180.png",
+    "published": "data/original_figures/e180.png",
+    "sha256": "e498b804a1730e280dfb0966c5b63b8cb115a5e6ba4627b0ee2538f5cee36490"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "e215.png",
+    "published": "data/original_figures/e215.png",
+    "sha256": "6ce583a840069a5dac0214c3996965905f092123ec3d8beb6801f298fe36dec7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "e270.png",
+    "published": "data/original_figures/e270.png",
+    "sha256": "7f176192e556fc49c50ed822f7e66b0c880c2d39d4ed4ed0b68cb4b4a6bf1b2e"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "e315.png",
+    "published": "data/original_figures/e315.png",
+    "sha256": "142a48938b19854abd357d58974b6c4973eeccab617a1454bf3f8cef5bb50e30"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "e45.png",
+    "published": "data/original_figures/e45.png",
+    "sha256": "8bee49b8938f8e3257fb54d91d85f3f0585cc02157fc6c146b4ed8e7e4f4158c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "e90.png",
+    "published": "data/original_figures/e90.png",
+    "sha256": "18b7d3ed42b9b663e0065603fcb80f805e76c20a2610bcd7ea6d6a93346c714f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "emptyroom.blend1",
+    "published": "data/scene_sources/emptyroom.blend1",
+    "sha256": "e74efc447bc199bcb8f74cba6677f01339ef929834d4a45f25f1c27c93b6221d"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "f0.png",
+    "published": "data/original_figures/f0.png",
+    "sha256": "fa44de8e2570a59852108d25296f7cc9c75b4da1a0cafdd69ad39b0b30600ca6"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "f135.png",
+    "published": "data/original_figures/f135.png",
+    "sha256": "d4f0359a4fb85fb15ed6b81e084dedb1cde27d2807cf170b23c2bd27fe105298"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "f180.png",
+    "published": "data/original_figures/f180.png",
+    "sha256": "4be2af04652c27c037dc5ae4398dbe268cbbd4327cb8664b1d064280526cc9ac"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "f225.png",
+    "published": "data/original_figures/f225.png",
+    "sha256": "ab3f89df398d0cbd6ab1d17251628b737149e33a24abb124262d81daeee88b01"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "f270.png",
+    "published": "data/original_figures/f270.png",
+    "sha256": "2638d703a997bce32212ef271e17cbf0541734273d05300e415510549f2b8834"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "f315.png",
+    "published": "data/original_figures/f315.png",
+    "sha256": "faa2432c7b61bfd5983f768ab93abcfc00ce30ee8a4be4022196e1837cabe9a7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "f45.png",
+    "published": "data/original_figures/f45.png",
+    "sha256": "f9b12f02e8cff6459d1ff457bc6f7072e18c91cd96b9d1182334eff374c218cc"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "f90.png",
+    "published": "data/original_figures/f90.png",
+    "sha256": "c127f8ae3da082fec15e30c42a271c8f72a89eaabd98225a5fa43bbd598fc5e7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Fourier_Heatmap (1).png",
+    "published": "data/original_figures/Fourier_Heatmap (1).png",
+    "sha256": "90eda3c033b25c43f2475c1442477725a0369dd629688d105f362177ae42d197"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Fourier_Heatmap.png",
+    "published": "data/original_figures/Fourier_Heatmap.png",
+    "sha256": "d70704ed4a0251a1ddd237758425f476c3108468866af2939a4e0924f256d5ed"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "fullroom.blend1",
+    "published": "data/scene_sources/fullroom.blend1",
+    "sha256": "3d48cc07f78916acc731fd9b5aa0a6bae3f8113527612097f63023548cb878fd"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "fullyfurnishedroom.blend1",
+    "published": "data/scene_sources/fullyfurnishedroom.blend1",
+    "sha256": "2f464aba3eb1a41b49cf61761f984fa7b43e0adbe0b02995d7ffbe3128ba20f7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "g0.png",
+    "published": "data/original_figures/g0.png",
+    "sha256": "beb4f0e6e21776958d3f5469eb76eec03be498985e026b8d500c5375dce300a6"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "g135.png",
+    "published": "data/original_figures/g135.png",
+    "sha256": "8d09353664e14a9d1f3e5c55552476e663603649cc008fdf3835e488237032e1"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "g180.png",
+    "published": "data/original_figures/g180.png",
+    "sha256": "0a79c3e5db34fc027089ffbe208a693ef6eedca0c33789cf2b03f53d69fd4887"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "g225.png",
+    "published": "data/original_figures/g225.png",
+    "sha256": "6f5978a8a92942c0b41a902b17f2d21f1d74566c6da52396bf9dc923005e5e31"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "g270.png",
+    "published": "data/original_figures/g270.png",
+    "sha256": "c7def4f2cfcb4ac68c0b7d0fff5703e5f36e011786802fea3778fae4beac59c1"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "g315.png",
+    "published": "data/original_figures/g315.png",
+    "sha256": "43ca9e39d62f45dc20b4fc2a86e7d5e4bf203268134632155ee3067fe5372339"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "g45.png",
+    "published": "data/original_figures/g45.png",
+    "sha256": "9424cf23a7ca8d1ad3d2f68a493ac7f9bf8b1300d10a7c8b21bcd0ea362a3d0b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "g90.png",
+    "published": "data/original_figures/g90.png",
+    "sha256": "e4d2548eed54b52118417f2f04664347b3b549db4b76d41bdb507ca032a5db75"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "h0.png",
+    "published": "data/original_figures/h0.png",
+    "sha256": "53465a504743528a99a38955c4cac01febdd6fa000c3f64b01e019f8d22ee30d"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "h135.png",
+    "published": "data/original_figures/h135.png",
+    "sha256": "272320c6e37d57475966b0ea276dabcb0d2556ac5223098b0fa91d25a57e9523"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "h180.png",
+    "published": "data/original_figures/h180.png",
+    "sha256": "2e67f316dfa24cc145f8dc56590e40c951c788a6adf5c33af34e9833fbbd4d55"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "h225.png",
+    "published": "data/original_figures/h225.png",
+    "sha256": "3df6d1308011c26be65a39438ef7c8f7f3bea44071a898956fed0b329f13e7c0"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "h270.png",
+    "published": "data/original_figures/h270.png",
+    "sha256": "0f1d752c47e3821423d793c1e74c98c97ce4e4d1c40c0093fc959dbff829491a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "h315.png",
+    "published": "data/original_figures/h315.png",
+    "sha256": "ab3896f1cf458d4e5cd7028619057ec8c8989a6b34961f79e3feb610c767a574"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "h45.png",
+    "published": "data/original_figures/h45.png",
+    "sha256": "02f20e0eff5d8ad7de8712616fbd88a0963f151274381ea6dc4086b829443f36"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "h90.png",
+    "published": "data/original_figures/h90.png",
+    "sha256": "1cfbfae7c6d537e2cd952b2b75e36d539d807829557fb1d756a35b0aa5c142f0"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "heatmap2.png",
+    "published": "data/original_figures/heatmap2.png",
+    "sha256": "fcd4725b8380c3355050e3f9ea945e143ca57849edb68d01189fb85d50e4d8a0"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "i0.png",
+    "published": "data/original_figures/i0.png",
+    "sha256": "a325ede187b68a90c7eac03e58b60bac1c76e42fdf4719f1cbe8889dc4f127bb"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "i135.png",
+    "published": "data/original_figures/i135.png",
+    "sha256": "2c308b623c4b182948275e3315f1a62bffdf537836f5f7f08372508884091946"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "i180.png",
+    "published": "data/original_figures/i180.png",
+    "sha256": "5839918190caf670c883ea402e0a38c1346607e7d7dd5f5ffca5de0dd3b956e3"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "i225.png",
+    "published": "data/original_figures/i225.png",
+    "sha256": "7509219b1ba5cbc659c041cf58d8ce5d91758257f8539770112d15d21b1697c8"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "i270.png",
+    "published": "data/original_figures/i270.png",
+    "sha256": "fcbd634bfa8b9668aee27bf56d4701ab6111bb86ae32e0fd60e77c1655a62df8"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "i315.png",
+    "published": "data/original_figures/i315.png",
+    "sha256": "0f326bdaef6a498e9cd2d0c8b3814439f578c03940319a7ec2ed10fd6283e4e5"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "i45.png",
+    "published": "data/original_figures/i45.png",
+    "sha256": "0e11d65900f79f15d2eb664b83d1b839b017d5bb47d79b7ede6b4c35faad1b3a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "i90.png",
+    "published": "data/original_figures/i90.png",
+    "sha256": "c23a5883737dbedfdfa5f388a3aa4da2595bbb1c6c66f07f707745b50de69cc7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "j0.png",
+    "published": "data/original_figures/j0.png",
+    "sha256": "a929f5705b00c56e6389ec41d60514fe95bf39e9e0874558b540869bddd1486b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "j135.png",
+    "published": "data/original_figures/j135.png",
+    "sha256": "a6ef92767f1c291afe180539622988254f57e7b6959c14772d428288c0780b24"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "j180.png",
+    "published": "data/original_figures/j180.png",
+    "sha256": "a10ea5a7375d7f82a2c517c916f8ac9ff616279b73f7ee29ddd433880e8709c8"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "j225.png",
+    "published": "data/original_figures/j225.png",
+    "sha256": "6482b032fe674e92eb0ab0579cad237bb07b7a4a22032edea34983ec26b94ebb"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "j270.png",
+    "published": "data/original_figures/j270.png",
+    "sha256": "9c643b4c68e5cdc5e4d9787ebdf0d94224e960d743f1cec22593ce88aa9e9177"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "j315.png",
+    "published": "data/original_figures/j315.png",
+    "sha256": "97f9585ff350e400ddcf7f6d57f0332489c4fedf510ce0fd6d7255f0b9ea5a69"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "j45.png",
+    "published": "data/original_figures/j45.png",
+    "sha256": "e200eb530a77e97803ab72f99519e7b84b900c0d024c6ff7ab24269164a50ff4"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "j90.png",
+    "published": "data/original_figures/j90.png",
+    "sha256": "fb2082a6e09a0a13e87ca51b5950dd695aff146de13823e2867ff7e1bcf41da6"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "k0.png",
+    "published": "data/original_figures/k0.png",
+    "sha256": "c440c3b8cd6b007c93870b586f5e874f521c3ec2f29fcdab94b440dee3b43eb6"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "k135.png",
+    "published": "data/original_figures/k135.png",
+    "sha256": "6cbce2887d82eda76393e08333fecf7110830e3599aba5fa2e7602cea4950647"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "k180.png",
+    "published": "data/original_figures/k180.png",
+    "sha256": "6207579c3b4204d695755f889b5f007bcc7884804ff893923c5e9656991cbf3a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "k225.png",
+    "published": "data/original_figures/k225.png",
+    "sha256": "726376ddcb6a739a40d5da908f676d8bb23e657ab313f740650b8621257351fd"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "k270.png",
+    "published": "data/original_figures/k270.png",
+    "sha256": "0c1c8ce5a93c4cd66de76fcf4686c6c616b42f860df7d5f34c3118ee55f6cf58"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "k315.png",
+    "published": "data/original_figures/k315.png",
+    "sha256": "bd9ac9b30a7c6a61076032ba0449125a59c4f1a02ee2725ce53880f0f8225f52"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "k45.png",
+    "published": "data/original_figures/k45.png",
+    "sha256": "3f2d14380ce53abb726d63258307c72e65d57049ed0a391ad2850567708943c0"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "k90.png",
+    "published": "data/original_figures/k90.png",
+    "sha256": "7d8d8aed0fd3f42d9439ee7c27a5be2a6b40b07f96ddd096e7711f5aea7fd5aa"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "l0.png",
+    "published": "data/original_figures/l0.png",
+    "sha256": "699150ff6dce00c7a346ef6efda71b2a7caf658338328b7e3fd68f9a8f8d1b97"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "l135.png",
+    "published": "data/original_figures/l135.png",
+    "sha256": "bfee13a857ce396652bba5d51e2a08237f8ba7b7969a23ef4ef83519062d879c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "l180.png",
+    "published": "data/original_figures/l180.png",
+    "sha256": "de8be1cf5ec931e27d4c99ee2defecbe72d811b42be67b439a02efa12f948fdf"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "l225.png",
+    "published": "data/original_figures/l225.png",
+    "sha256": "4d949327c66d6513333455f8358e6d4f74a31e1269c5900186dc280d7e9d02f7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "l270.png",
+    "published": "data/original_figures/l270.png",
+    "sha256": "ba94b79109ad44df4cb809c61157138ebff25bcbd98e5d9457344324976edc47"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "l315.png",
+    "published": "data/original_figures/l315.png",
+    "sha256": "77928bfd787627170739e5a1d7421b38572c2eacafee76753f25e75f2f1e706e"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "l45.png",
+    "published": "data/original_figures/l45.png",
+    "sha256": "a7e36f1c295d9c365106d60e1812d145a58bfbb193857743145818fd5ccd72dc"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "l90.png",
+    "published": "data/original_figures/l90.png",
+    "sha256": "0e86f7c9615d40fd919fb2f30841ff03883a2f91edc96750892766833b3f1f4b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "led_tv.ply",
+    "published": "data/scene_sources/led_tv.ply",
+    "sha256": "7907ad4d3f7395c863bb207a7774c7e6329e9cced0458a0b00a309d13fce659c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "m0.png",
+    "published": "data/original_figures/m0.png",
+    "sha256": "52d81f1c36b8f4613050ec82f38a0801b7842ff1986a941d852325bce089eda9"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "m135.png",
+    "published": "data/original_figures/m135.png",
+    "sha256": "d0b4d7ad144e5499a87bf4e6d680810e02cabc68f777c2cac0d4fbe05fd72c67"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "m180.png",
+    "published": "data/original_figures/m180.png",
+    "sha256": "843a419b0347d79ff551a4b3ab2da922478f53e99ef4478527220db12a19c2f2"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "m225.png",
+    "published": "data/original_figures/m225.png",
+    "sha256": "0df88d2dea4c5d9af8a90cbe028d5e345781b29b44773508c233acdc8b4bd82e"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "m270.png",
+    "published": "data/original_figures/m270.png",
+    "sha256": "5f0d70cf057e76f376a2c458227ae51fe6fce1003598c9dc8b51bddbfdade6fb"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "m315.png",
+    "published": "data/original_figures/m315.png",
+    "sha256": "2efde7fa87bb87b08957bf22e7a93feb0925ab74ee1d005afc849cac23359621"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "m45.png",
+    "published": "data/original_figures/m45.png",
+    "sha256": "3e7f3ffbc61192df9a282a82bfd912330ea01f04223b9f3b1f8dec4c742cdb8b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "m90.png",
+    "published": "data/original_figures/m90.png",
+    "sha256": "e6a15fb59ec87c7739cbee9098a879c356a8cd13e55515340f80e30306c4905a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Multiview_Heatmap (1).png",
+    "published": "data/original_figures/Multiview_Heatmap (1).png",
+    "sha256": "de5601afc348d7a13761a04126bd8c4dd21cafae9b7db02eb8cc9abaac4f845a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Multiview_Heatmap (2).png",
+    "published": "data/original_figures/Multiview_Heatmap (2).png",
+    "sha256": "5212d570714c2de862e29844302fa68610865bf6627df338ac63652ec8ac7d7c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Multiview_Heatmap (3).png",
+    "published": "data/original_figures/Multiview_Heatmap (3).png",
+    "sha256": "a54d92a1c726a34c98033ec8bb896da36c1a1f91de05dba98455106ae7838d14"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Multiview_Heatmap.png",
+    "published": "data/original_figures/Multiview_Heatmap.png",
+    "sha256": "2d4cdca43a1bb9117d47a237a01d8dce5246e0a0ab0625fb2a4f372141f9a3e7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "n0.png",
+    "published": "data/original_figures/n0.png",
+    "sha256": "76b70a17133241bb3b6dfc68fadc24e568c44af3bb88e9eac1a5a53b50d3603e"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "n135.png",
+    "published": "data/original_figures/n135.png",
+    "sha256": "709090cbf2467d00b2f1a5c2b7dc9c01b57e549ae9f16e6892a6df8739f2052b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "n180.png",
+    "published": "data/original_figures/n180.png",
+    "sha256": "0a815d63b663d019bb44ca2c45c7fed339a9cfc54ae4f6b459e5e3e460844217"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "n225.png",
+    "published": "data/original_figures/n225.png",
+    "sha256": "df7a7078eabc614fd962c15938847f65cdd880a219938c9ff0d98770d0a76c40"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "n270.png",
+    "published": "data/original_figures/n270.png",
+    "sha256": "ec70cc086059df3851d80d3ece2d29e7142c0c4c0b5d44e684539dfa26d372b4"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "n315.png",
+    "published": "data/original_figures/n315.png",
+    "sha256": "ede60c84ab2831527e481ac33a2f3fe9cc8ca80fa55289143dd011019592e01f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "n45.png",
+    "published": "data/original_figures/n45.png",
+    "sha256": "03280e3a530f364c8bcfdcd574470c2b446d66368e9b6cad2555931191ce9688"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "n90.png",
+    "published": "data/original_figures/n90.png",
+    "sha256": "4db4c1ec881f9a9d727c5953ec9235e7964c05658e14b0276d7852db8dde4282"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "nobedroom.blend1",
+    "published": "data/scene_sources/nobedroom.blend1",
+    "sha256": "b4900b5ec3b7f66b6183abb157fc3fecce3bde83e1f45dfd0827023a4c41fe4b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "nochairroom.blend1",
+    "published": "data/scene_sources/nochairroom.blend1",
+    "sha256": "e894f985d4edea19badf64856db165ef7e437eb928dac5c0109ee8bd189aa467"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "nopartitionroom.blend1",
+    "published": "data/scene_sources/nopartitionroom.blend1",
+    "sha256": "a78cad165ea64dd3608e856912af1d0b502d643761a37926752e0f08e80bd526"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "nosofaroom.blend1",
+    "published": "data/scene_sources/nosofaroom.blend1",
+    "sha256": "650ee7000161dd9ee46a0a4741f2b11b814e39cad84935d7d34a52bcbdeae190"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "o0.png",
+    "published": "data/original_figures/o0.png",
+    "sha256": "8c15576f693610fee1a9dde9e8fd773b3149b1f95daffe194c684d9731a4574f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "o135.png",
+    "published": "data/original_figures/o135.png",
+    "sha256": "7c6d5db17bce3da07884c7010a246f15d0e9cecf3f29d4487f848ccf8a634fe9"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "o180.png",
+    "published": "data/original_figures/o180.png",
+    "sha256": "2da076e6b10acba5db8195bc5b0275afd7d282aeaaef23efb67adf97eb305f08"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "o225.png",
+    "published": "data/original_figures/o225.png",
+    "sha256": "02c8d33ada5451df26f2952311831b641da9e2e05ca7c0cbddd904302220ff69"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "o270.png",
+    "published": "data/original_figures/o270.png",
+    "sha256": "f85722e20030785406d634682e31c4be79ec028bbe6b4184165c1e949382d7b0"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "o315.png",
+    "published": "data/original_figures/o315.png",
+    "sha256": "0b81a30d25813fdc4e9cec5222fe5b9f9d75434a373be24b9396b53ccbb3b388"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "o45.png",
+    "published": "data/original_figures/o45.png",
+    "sha256": "15b260c3f584650e8ce48639f92df295f9d9b631967142842659198f8760164d"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "o90.png",
+    "published": "data/original_figures/o90.png",
+    "sha256": "44d660ac83520ff10c25186d10c410294f3050203c902b7f8715bfced419f195"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom.png",
+    "published": "data/original_figures/OrgRoom.png",
+    "sha256": "fbe81dff2b0fa856d15f79ef9507db5761e33ae38b25fd01e6e0a0507a5cc1e3"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom1.png",
+    "published": "data/original_figures/OrgRoom1.png",
+    "sha256": "4a8d6e0c06857251446c5da3d0ba1a24f1ead4d0f7eea3640ea30d2cecae19dc"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom10.png",
+    "published": "data/original_figures/OrgRoom10.png",
+    "sha256": "132eef24819d3271293ac889c25eefad6aa83e0669ca1d0dcdd5eaf1f6440505"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom11.png",
+    "published": "data/original_figures/OrgRoom11.png",
+    "sha256": "15c7a580f64aec235f5872013ba6c110836a8d67068beb26b70b159b93ac88e1"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom12.png",
+    "published": "data/original_figures/OrgRoom12.png",
+    "sha256": "33fa60e6fde19706a90a929aa360c02e5f399c79405d4efb101bac63d68e5da9"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom13.png",
+    "published": "data/original_figures/OrgRoom13.png",
+    "sha256": "65a21018f587d8106f63c738ca93416500ec51ce3bef226d087f4f58e18685c1"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom2.png",
+    "published": "data/original_figures/OrgRoom2.png",
+    "sha256": "fab2cee7b34ac8c535271aea2dd86dd05962b6056cd25a84500acb51963dd727"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom3.png",
+    "published": "data/original_figures/OrgRoom3.png",
+    "sha256": "60d40b3304ac028feace8b522f478e8e00ade3ecadb60884e500288de9828d5e"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom4.png",
+    "published": "data/original_figures/OrgRoom4.png",
+    "sha256": "088bcff34aeed4e2542883b99517830529306c1d39a3c0ac8ba70b361099137b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom5.png",
+    "published": "data/original_figures/OrgRoom5.png",
+    "sha256": "c081d59e7ae8d87839ca65768c90aa9e4c33c67940f01d5c9bf7aacb268a5eb7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom6.png",
+    "published": "data/original_figures/OrgRoom6.png",
+    "sha256": "3c40da8d12d2258aeb0d3f02f16e521674920cb82a592ad22a67538e4959616c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom7.png",
+    "published": "data/original_figures/OrgRoom7.png",
+    "sha256": "6974cc1027f3d82e7f146056f33034c8ef1dceba5fd5e990f8a0e8825d923319"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom8.png",
+    "published": "data/original_figures/OrgRoom8.png",
+    "sha256": "379a0e8286d9d9563b95b0f8e4f2b9c2f444bdc3562596fcaf950c178f6ad639"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "OrgRoom9.png",
+    "published": "data/original_figures/OrgRoom9.png",
+    "sha256": "35cbc501ca2bef8ef0208d796591f1f3d40e646a98ccaf78f73500ed69148cbb"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "p0.png",
+    "published": "data/original_figures/p0.png",
+    "sha256": "9553d78505555a76e7d23d22790babee8b0e5f37277d3d13e26cc933e09fa09a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "p135.png",
+    "published": "data/original_figures/p135.png",
+    "sha256": "b6f8c3f157524c32078cade314386fd487cde70f43bd662d6be8f50fa5e7a08a"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "p180.png",
+    "published": "data/original_figures/p180.png",
+    "sha256": "216ffd6ac16c71258b1704bbf6b7835bcae7eb5f6b45d04f57551e07f5f66949"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "p225.png",
+    "published": "data/original_figures/p225.png",
+    "sha256": "4e588d6e9937568510e69a1fc803f8e855405d9de9cc2a134167925d81f8d558"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "p270.png",
+    "published": "data/original_figures/p270.png",
+    "sha256": "24b511b1d601f247fc44c6745411a9533557cc81008fb5e920d72dbdbb4438db"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "p315.png",
+    "published": "data/original_figures/p315.png",
+    "sha256": "c8ec5e038f69b25de3ae4b57c1f9fc37da0c73f2b5380ae9bee893a7e671b4c1"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "p45.png",
+    "published": "data/original_figures/p45.png",
+    "sha256": "3a5a95264f8c3341f9ab8edf38d550a0ca2d42f8257f86cf5839846fe7abdd51"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "p90.png",
+    "published": "data/original_figures/p90.png",
+    "sha256": "75c1d4211b43381c49915e07ba391da62a3b8f5affcbfa8c74b81724ca15c832"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "rf_zoned_room_v3_combined.ply",
+    "published": "data/scene_sources/rf_zoned_room_v3_combined.ply",
+    "sha256": "c3f355271acd4ea0b6a50098617f7a94f9ad196b7e07201ed972596d9bed8eaa"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room.png",
+    "published": "data/original_figures/Room.png",
+    "sha256": "4a605127fa4e41ab98b71978d760644b693f9e865941a6033367dcdaf5240aff"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "room1.jpeg",
+    "published": "data/original_figures/room1.jpeg",
+    "sha256": "c5dc547a25bf0b230bbc0b288de2d1f65362fccdbf2da5c5dedeb246c7f82ef7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room1.png",
+    "published": "data/original_figures/Room1.png",
+    "sha256": "8e09d6ad41d108a7eb34cef9f951d5944e4d4fcb5bb4d8f10e08e01e70996aaa"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "room2.jpeg",
+    "published": "data/original_figures/room2.jpeg",
+    "sha256": "8de592d7b378b7f8a26e39cb3d05fb4bd004359454b2dfadcbc33200301274d7"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room2.png",
+    "published": "data/original_figures/Room2.png",
+    "sha256": "a03b254142896c23095b2185a4d9f20f63c2477984a93889491c1671c2983c7f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "room3.jpeg",
+    "published": "data/original_figures/room3.jpeg",
+    "sha256": "82d9f4b18316b9f7b27092041a7252bffd880a6e086a092033ca9fbeef6c761b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room3.png",
+    "published": "data/original_figures/Room3.png",
+    "sha256": "475b991f07cc2fe5c3f239ad51b5ae3b8e5e5ec8acd458ddc2b6f9e7e2ee4e4b"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "room4.jpeg",
+    "published": "data/original_figures/room4.jpeg",
+    "sha256": "96c24284787dae269155dfe8aa4cfb36d921986906f6fc4700f67d296bfa4268"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room4.png",
+    "published": "data/original_figures/Room4.png",
+    "sha256": "ca5bda209e606df785b0b09d85ca9490e02b723ccead1edb7f7c357676c9c5bb"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room5.png",
+    "published": "data/original_figures/Room5.png",
+    "sha256": "3c79c5a63059090972cc3028c676f42e2fea8870131ad4d257c1ed1f2974c3ac"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room6.png",
+    "published": "data/original_figures/Room6.png",
+    "sha256": "547b31fdca31e8bb8f86e52ab2207ca4f241c205a19926d2dd04b8253a9418e8"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room7.png",
+    "published": "data/original_figures/Room7.png",
+    "sha256": "e62a0e684c8a5d50cf19318c7f13fea8e8080f1a53edc259ec52811ff11de24d"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room9.png",
+    "published": "data/original_figures/Room9.png",
+    "sha256": "2c156d3e3fb18f459c6eb144927ad8d295c4076439ed0d387ecf7324bd0ef2b4"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "Room_org.blend",
+    "published": "data/scene_sources/Room_org.blend",
+    "sha256": "9926e4d7a5e2ec8deeef770b179d26375ef12d008e63b77f8453ecb425483b3c"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "SceneEmbeddings.blend",
+    "published": "data/scene_sources/SceneEmbeddings.blend",
+    "sha256": "94b1073fd9c01e09263672f535fd13c746e7e0ca3692164d2af07e69247d8a9f"
+  },
+  {
+    "source_group": "Airtel Report",
+    "source": "SceneEmbeddings.blend1",
+    "published": "data/scene_sources/SceneEmbeddings.blend1",
+    "sha256": "7dad0b4d09aebb74c48b72f2e9844225aaa3128df314e9f27a4cb5d2a50a8e46"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/delay_feature_ablation.csv",
+    "published": "results/rf_followup/delay_feature_ablation.csv",
+    "sha256": "69c8fa747eeba4b959d7a187552e394de74613340322801a5998e70470d808cf"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/embedding_comparison.csv",
+    "published": "results/rf_followup/embedding_comparison.csv",
+    "sha256": "fa88e8446cd3ed33a8e698f0b4a16ba21284682f5c81aa8502cc76e604db64b3"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/followup_80d_embeddings.csv",
+    "published": "results/rf_followup/followup_80d_embeddings.csv",
+    "sha256": "8d063c21153c2df1faee604fdd28edcfe20ec6a03927c437f2027330d32c2ee9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/followup_predictor.joblib",
+    "published": "results/rf_followup/followup_predictor.joblib",
+    "sha256": "09bc80eb288bb8d0b9979435e229c0adcfaac48cc4707fbb7a1a25e17a01ff3f"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/importance_dominant_fraction.csv",
+    "published": "results/rf_followup/importance_dominant_fraction.csv",
+    "sha256": "c6f68dc899c7cb0ae2c94c437123ff0ec087e136aef35c47808d0e04e03f4a77"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/importance_path_gain_db.csv",
+    "published": "results/rf_followup/importance_path_gain_db.csv",
+    "sha256": "1306e409db749032df01babe1569fe3258ee92b4fb34d7eb9c9abac6b1cb55c9"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/main_comparison.csv",
+    "published": "results/rf_followup/main_comparison.csv",
+    "sha256": "80a74ebf4b198c1bdcd4549d692da75c86dc51f79cae3b2bfa0a266b30829f6a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/original_80d_embeddings.csv",
+    "published": "results/rf_followup/original_80d_embeddings.csv",
+    "sha256": "41285e99665d576a5712d7bfb139f1d9f3183ce9902336ec8fb6cc5659b6977f"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/quality_comparison.png",
+    "published": "results/rf_followup/quality_comparison.png",
+    "sha256": "0ebb2ceed229c8907aee0899b3e603363929ea564c67876acc2f6d7112a066b3"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/reference_80d_embeddings.csv",
+    "published": "results/rf_followup/reference_80d_embeddings.csv",
+    "sha256": "a68cb59da6c53c40c41811200ae4886c88ecc1e9c75edf89f6f03c7f519c4096"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/runtime_per_query.csv",
+    "published": "results/rf_followup/runtime_per_query.csv",
+    "sha256": "1c2aafd5885fa47b9763ffd960f5d37ba56ea3575bb099f1a6322d95576ded15"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/runtime_repeats.csv",
+    "published": "results/rf_followup/runtime_repeats.csv",
+    "sha256": "6d3f203d19fa7019d336e4f342ac3948d10611a91a22000bf0b652473f0f32ed"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/same_runtime_sionna_benchmark.csv",
+    "published": "results/rf_followup/same_runtime_sionna_benchmark.csv",
+    "sha256": "d0325ab3576333d6c647d6c4f684e9e5c19211645573a2043ef5352988f46966"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/test_metrics_all16.csv",
+    "published": "results/rf_followup/test_metrics_all16.csv",
+    "sha256": "043879b5b40af90ea9303798dc32da722b0f396ff11ab1262229c087d4809dce"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/test_predictions.csv",
+    "published": "results/rf_followup/test_predictions.csv",
+    "sha256": "53056e08495325b4208987ac45b75fb2190ed15a2685ab80fd2c5409d1b30ab4"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/training_configuration_cv.csv",
+    "published": "results/rf_followup/training_configuration_cv.csv",
+    "sha256": "d30bd707b2b2879915ff46f4f4ac3ad421825854aa008b062056432117b34592"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/training_cv_summary.csv",
+    "published": "results/rf_followup/training_cv_summary.csv",
+    "sha256": "13ee45907921f43d91f977a121ae23dffa268cb97f85c35ba6ccba42e6c3c8ca"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/validation_group_importance.csv",
+    "published": "results/rf_followup/validation_group_importance.csv",
+    "sha256": "60c2dbe786aa450d877cb3d09891a11ac107d32a81a3ade5f334e4bd02b9e065"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/validation_group_permutation_repeats.csv",
+    "published": "results/rf_followup/validation_group_permutation_repeats.csv",
+    "sha256": "b553e30a82468c35d26a542ad3818aaf5dae45656debb5a69a1c75bfd06fc004"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/validation_heads.csv",
+    "published": "results/rf_followup/validation_heads.csv",
+    "sha256": "a59b81d206098db70a193f7971032c754d85a4a3f3059de0543f06706788569a"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/validation_models.csv",
+    "published": "results/rf_followup/validation_models.csv",
+    "sha256": "61e978582aa907a2697c95fc555c9f4fa57e216ebe2bcbdc12cb93d22f9e65f1"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/protocol.json",
+    "published": "results/rf_followup/protocol.json",
+    "sha256": "32a50bc24e63dbc0d551924dbb2edabc59424879a801d567087c481e17f64d7b"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/selection.json",
+    "published": "results/rf_followup/selection.json",
+    "sha256": "4f8decaee8e4c90c588578eeaa9b82622abb35f951eb22d078b53470da2f1972"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/same_runtime_sionna_benchmark.json",
+    "published": "results/rf_followup/same_runtime_sionna_benchmark.json",
+    "sha256": "6ae504d3c73865eb07bf8b0fba0c213dfd3b16d6cf0f45c2492c192ad8e8ddbf"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/runtime_comparison.json",
+    "published": "results/rf_followup/runtime_comparison.json",
+    "sha256": "62ceca6d0187c37a7a05c68dc75e7682b9103aa83d9c8c7e3699afb83e3ac193"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/data_audit.json",
+    "published": "results/rf_followup/data_audit.json",
+    "sha256": "debfd6c92e1f347e7fdb297c200a9d38881b7fdf6954ba59b9448e36a627fb0c"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/baseline_source/experiment.py",
+    "published": "results/rf_followup/baseline_source/experiment.py",
+    "sha256": "6ff06ab75999862806f63406c3d89791fe3c408fb57808044dbab4e0b1310436"
+  },
+  {
+    "source_group": "Airtel_Similarity",
+    "source": "rf_surrogate_followup_20261004/saved_results/baseline_source/geometry_io.py",
+    "published": "results/rf_followup/baseline_source/geometry_io.py",
+    "sha256": "586285e9763df1765cdc1457c60cf8c883308c2751fab06a30ad2a0a5ca16390"
+  }
+]

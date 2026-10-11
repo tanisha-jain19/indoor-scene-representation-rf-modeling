@@ -1,0 +1,75 @@
+{
+  "seed": 20260923,
+  "joint_candidates": [
+    {
+      "name": "joint_leaf1",
+      "family": "et",
+      "leaf": 1,
+      "fraction": 1.0,
+      "features": "original"
+    },
+    {
+      "name": "joint_leaf4_mf07",
+      "family": "et",
+      "leaf": 4,
+      "fraction": 0.7,
+      "features": "original"
+    },
+    {
+      "name": "joint_leaf2_engineered",
+      "family": "et",
+      "leaf": 2,
+      "fraction": 1.0,
+      "features": "engineered"
+    }
+  ],
+  "head_candidates": [
+    {
+      "name": "et_leaf2",
+      "family": "et",
+      "leaf": 2,
+      "fraction": 1.0,
+      "features": "original"
+    },
+    {
+      "name": "et_leaf1_mf07",
+      "family": "et",
+      "leaf": 1,
+      "fraction": 0.7,
+      "features": "original"
+    },
+    {
+      "name": "et_leaf4_engineered",
+      "family": "et",
+      "leaf": 4,
+      "fraction": 0.7,
+      "features": "engineered"
+    },
+    {
+      "name": "hgb_direct",
+      "family": "hgb",
+      "features": "original",
+      "log": false
+    },
+    {
+      "name": "hgb_log",
+      "family": "hgb",
+      "features": "original",
+      "log": true
+    },
+    {
+      "name": "hgb_engineered_absolute",
+      "family": "hgb",
+      "features": "engineered",
+      "loss": "absolute_error",
+      "log": false
+    }
+  ],
+  "head_log_rule": "ET delay uses log1p; HGB log candidate only for delay",
+  "selection": "Minimum validation primary MAE/train SD; baseline and best joint and baseline with independently selected primary heads compete",
+  "test_policy": "Previously examined test set; exploratory final comparison, not independent confirmation",
+  "cv_policy": "7 training-configuration folds for fixed selected settings; diagnostic only",
+  "ablation_policy": "Fixed ET delay log leaf2, original/no_material/no_absolute_xyz; validation only, not selected",
+  "no_new_sionna_labels": true,
+  "original_directory_read_only": "/content/drive/MyDrive/RF_Surrogate_20260923"
+}

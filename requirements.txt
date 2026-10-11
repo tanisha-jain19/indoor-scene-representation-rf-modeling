@@ -1,0 +1,8 @@
+# CPU geometry replay and analytic tests; CUDA workflows use separate environments.
+numpy>=1.26,<3
+pandas>=2.2,<3
+scipy>=1.12,<2
+scikit-learn>=1.5,<2
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+pillow>=10,<13

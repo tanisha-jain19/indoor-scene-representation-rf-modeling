@@ -1,0 +1,44 @@
+{
+  "publication_date": "2026-10-11",
+  "python_files_syntax_checked": 23,
+  "notebooks_validated": 11,
+  "existing_analytic_tests_passed": 7,
+  "geometry_rooms": 11,
+  "geometry_aligned_objects": 8,
+  "historical_prediction_rows_per_model": 320,
+  "recomputed_historical_mae": [
+    {
+      "model": "original_fast",
+      "target": "path_gain_db",
+      "mae": 2.664111295366287
+    },
+    {
+      "model": "original_fast",
+      "target": "rms_delay_ns",
+      "mae": 1.0675797755654333
+    },
+    {
+      "model": "original_fast",
+      "target": "dominant_fraction",
+      "mae": 0.10189071289195369
+    },
+    {
+      "model": "followup",
+      "target": "path_gain_db",
+      "mae": 2.187290623474121
+    },
+    {
+      "model": "followup",
+      "target": "rms_delay_ns",
+      "mae": 1.280074797931347
+    },
+    {
+      "model": "followup",
+      "target": "dominant_fraction",
+      "mae": 0.09021405877098444
+    }
+  ],
+  "new_gpu_training": false,
+  "new_sionna_simulation": false,
+  "saved_model_inference_rerun": false
+}
